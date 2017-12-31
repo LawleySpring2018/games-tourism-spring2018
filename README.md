@@ -1,5 +1,5 @@
-|  RIT School of Interactive Games & Media | Professor Elizabeth Lawley |
-|--------------------------------|-----------------------------------------------------|
+|  RIT School of Interactive Games & Media | Spring 2018, Dubrovnik, Croatia | Professor Elizabeth Lawley |
+|----|----|----|
 
 # IGME-590 Seminar on Games & Tourism, Spring 2018: Syllabus
 

@@ -1,5 +1,6 @@
-|  IGME-590: Seminar in Games & Tourism, Spring 2018 | [Syllabus](README.md) |
-|--------------------------------|-----------------------------------------------------|
+|  RIT IGME-590: Seminar in Games & Tourism | Spring 2018, Dubrovnik | [Course Syllabus](README.md) |
+|----|----|----|
+
 # Schedule of Topics
 - [Week 1 (Jan 15/17): Course Overview, Expectations, & Tools](#week1)
 - [Week 2 (Jan 22/24): ](#week2)
