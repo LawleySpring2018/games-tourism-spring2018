@@ -4,9 +4,9 @@
 # IGME-590 Seminar on Games & Tourism, Spring 2018: Syllabus
 
 ## Class Details
-- Class Meetings: T/Th 2-3:20pm in Room 10
-- Class Slack: https://lawley-220-spring2018.slack.com/
-- Professor Lawley's Office Hours: T 2-3:20pm, Th 2-4pm (room TBD)
+- Class Meetings: M/W 2-3:20pm in Room 10
+- Class Slack: https://lawley-spring2018.slack.com/
+- Professor Lawley's Office Hours: Tues 3:30-5:30pm, Thurs 2-4pm (room TBD)
 - [Course Topics & Schedule](Schedule.md)
 
 ## Course Catalog Description 
