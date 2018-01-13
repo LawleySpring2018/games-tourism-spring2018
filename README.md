@@ -1,24 +1,30 @@
 |  RIT School of Interactive Games & Media | Spring 2018, Dubrovnik, Croatia | Professor Elizabeth Lawley |
 |----|----|----|
 
-# IGME-590 Seminar on Games & Tourism, Spring 2018: Syllabus
+# IGME-590 Seminar on Games & Tourism / IGME-580 Production Studio
+
+These classes will be taught as a single 6-credit experience during the spring semester in Dubrovnik, so the materials have been combined into a single syllabus. 
 
 ## Class Details
-- Class Meetings: M/W 2-3:20pm in Room 10
+- Class Meetings: M/W 2-3:20pm in Room 11, 3:30-5pm in Room 35
 - Class Slack: https://lawley-spring2018.slack.com/
-- Professor Lawley's Office Hours: Tues 3:30-5:30pm, Thurs 2-4pm (room TBD)
+- Professor Lawley's Office Hours: Tues 3:30-5:30pm, Thurs 2-4pm
 - [Course Topics & Schedule](Schedule.md)
 
 ## Course Catalog Description 
-From “gamified” tours of locations to augmented reality games to board games based on specific locations, games are increasingly being used by the tourism and hospitality industry as tools to attract new visitors to locations, and engage tourists in activities. In this course, students will review research and case studies of games related to tourism. The class will include presentations by experts in tourism and hospitality as well as experienced game designers. Students will work individually and in groups to create and refine ideas for both analog and digital games related to tourism. 
+IGME-590: From “gamified” tours of locations to augmented reality games to board games based on specific locations, games are increasingly being used by the tourism and hospitality industry as tools to attract new visitors to locations, and engage tourists in activities. In this course, students will review research and case studies of games related to tourism. The class will include presentations by experts in tourism and hospitality as well as experienced game designers. Students will work individually and in groups to create and refine ideas for both analog and digital games related to tourism. 
+
+IGME-580: This course will allow students to work as domain specialists on teams completing one or more large projects over the course of the semester.  The projects will be relevant to experiences of the Interactive Games and Media programs, but will require expertise in a variety of sub-domains, including web design and development, social computing, computer game development, multi-user media, human-computer interaction and streaming media. Students will learn to apply concepts of project management and scheduling, production roles and responsibilities, and their domain skill sets to multidisciplinary projects.  Students will complete design documents, progress reports and final assessments of themselves and their teammates in addition to completing their assigned responsibilities on the main projects
 
 ## Course Materials and Communication
-There is no required textbook, but there will be a number of required weekly readings; all readings will be linked from the [weekly topic schedule](Schedule.md). 
+There is no required textbook, but there will be required weekly readings; all readings will be linked from the [weekly topic schedule](Schedule.md). 
 
 MyCourses will *only* be used for grading (and the occasional copyrighted reading), not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
 ## Course Organization
-Listening to a lecture is seldom the best way to learn to create things. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will give a short lecture providing context and additional information about the assigned materials, and then we'll do a short in-class exercise to get hands-on experience with the concepts being discussed.
+From 2-3:20 class will typically consist of a short lecture focused on the weekly topic, followed by an in-class activity, a guest lecture, or a site visit. During weeks 1 and 2, that will be extended into the 3:30-5pm time slot. 
+
+Starting in week 3, the 3:30-5pm time slot will be used 
 
 ## [Course Topics & Schedule](Schedule.md)
 The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class, and will be linked from the schedule.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings for that week. 
@@ -27,7 +33,7 @@ The schedule of topics, readings, and exercises can be found in the [Schedule.md
 Because much of the class revolves around in-class activities, attendance is critical. If you miss a class, you should check Github and/or Slack for information on what was done, and contact me about options for making up the in-class work. If you know you'll be missing a class due to illness or a conflict, please let me know before class starts.  
 
 ## Grading
-Your final grade will be based on your projects (60%), in-class exercises (30%), and your overall participation in-class and/or in Slack (10%).
+Your final grade for both classes will be based on your individual assignments (40%) and your game project (60%).
 
 I give only three possible final grades in this class. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("you have not mastered this material"), based on your overall average for the class. Here's the breakdown:
 
@@ -37,13 +43,24 @@ I give only three possible final grades in this class. You'll receive a grade of
 | 65%-82.9%	| C |
 | 0-64.9%	| F |
 
-### In-Class Activities (30% of final grade)
+## Individual Assignments
 
-### Projects (60% of final grade)
+### Class Journal or Blog (20% of final grade)
+Each week there will be lectures, readings, and in-class activities. You will be expected to maintain a journal--either as a Google Doc (with access granted to me), or as a blog (you can set up your own, or I can set one up for you). You will receive a weekly grade on this, although the grades will be posted every 2-3 weeks. 
 
+### Attendance & Class Participation (20% of final grade)
+You are expected to attend class regularly, since there will be many guest lectures, site visits, and group activities that cannot be made up outside of class. 
 
-### Attendance & Class Participation (10% of final grade)
-You are expected to attend class regularly. In some cases, I will announce that attendance is optional *if* you complete that day's exercise before the start of class. 
+## Group Game Project
+Projects will be assessed twice. 
+
+### Midterm Assessment (20% of final grade)
+I will assess your group's progress at the end of week 7. This assessment will include your pitches, proposals, ongoing documentation, and team communication and organization effectiveness.  I will include a peer evaluation component in this assessment. 
+
+If you have created a prototype and/or performed a playtest, I will review that separately, and will use it to determine whether you should apply to pitch your game at the Reboot Develop conference. 
+
+### Final Assessment (40% of final grade)
+Your final assessment will include all prototypes and playtests, design documentation, team communication and effectiveness, and the final version of the game itself. I will include a peer evaluation component in this assessment, as well. 
 
 	
 ## Additional Policies
