@@ -7,7 +7,7 @@ These classes will be taught as a single 6-credit experience during the spring s
 
 ## Class Details
 - Class Meetings: M/W 2-3:20pm in Room 11, 3:30-5pm in Room 35
-- Class Slack: https://lawley-spring2018.slack.com/
+- Slack: [#igme580-590 channel in dbv-sa-2018](https://dbv-sa-2018.slack.com/messages/C8SBDKKD1)
 - Professor Lawley's Office Hours: Tues 3:30-5:30pm, Thurs 2-4pm
 - [Course Topics & Schedule](Schedule.md)
 
@@ -45,16 +45,16 @@ I give only three possible final grades in this class. You'll receive a grade of
 
 ## Individual Assignments
 
-### Class Journal or Blog (20% of final grade)
-Each week there will be lectures, readings, and in-class activities. You will be expected to maintain a journal--either as a Google Doc (with access granted to me), or as a blog (you can set up your own, or I can set one up for you). You will receive a weekly grade on this, although the grades will be posted every 2-3 weeks. 
+### Class Journal or Blog (30% of final grade)
+Each week there will be lectures, readings, and in-class activities. You will be expected to maintain a journal in which you discuss the week's materials and activities--either as a Google Doc (with access granted to me), or as an entry on the class blog. You will receive a weekly grade on this, although the grades will only be posted every 2-3 weeks. 
 
-### Attendance & Class Participation (20% of final grade)
-You are expected to attend class regularly, since there will be many guest lectures, site visits, and group activities that cannot be made up outside of class. 
+### Attendance, In-Class Activities, & Class Participation (20% of final grade)
+You are expected to attend class regularly, since there will be many guest lectures, site visits, and group activities that cannot be made up outside of class.
 
 ## Group Game Project
-Projects will be assessed twice. 
+Projects will be assessed twice; once at the end of week 7, and once at the end of the semester. 
 
-### Midterm Assessment (20% of final grade)
+### Midterm Assessment (10% of final grade)
 I will assess your group's progress at the end of week 7. This assessment will include your pitches, proposals, ongoing documentation, and team communication and organization effectiveness.  I will include a peer evaluation component in this assessment. 
 
 If you have created a prototype and/or performed a playtest, I will review that separately, and will use it to determine whether you should apply to pitch your game at the Reboot Develop conference. 
