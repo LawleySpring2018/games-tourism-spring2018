@@ -33,9 +33,9 @@ The schedule of topics, readings, and exercises can be found in the [Schedule.md
 Because much of the class revolves around in-class activities, attendance is critical. If you miss a class, you should check Github and/or Slack for information on what was done, and contact me about options for making up the in-class work. If you know you'll be missing a class due to illness or a conflict, please let me know before class starts.  
 
 ## Grading
-Your final grade for both classes will be based on your individual assignments (40%) and your game project (60%).
+Your final grade for IGME-590 will be based on your individual assignments. Your final grade for IGME-580 will be based on your group game project. 
 
-I give only three possible final grades in this class. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("you have not mastered this material"), based on your overall average for the class. Here's the breakdown:
+I give only three possible final grades in these classes. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("you have not mastered this material"), based on your overall average for the class. Here's the breakdown:
 
 | Class Average | Grade |
 | ------------- | ----- |
@@ -43,23 +43,29 @@ I give only three possible final grades in this class. You'll receive a grade of
 | 65%-82.9%	| C |
 | 0-64.9%	| F |
 
-## Individual Assignments
+## Individual Assignments (IGME 590 Grade)
 
-### Class Journal or Blog (30% of final grade)
+### Class Journal or Blog (40% of final grade)
 Each week there will be lectures, readings, and in-class activities. You will be expected to maintain a journal in which you discuss the week's materials and activities--either as a Google Doc (with access granted to me), or as an entry on the class blog. You will receive a weekly grade on this, although the grades will only be posted every 2-3 weeks. 
 
 ### Attendance, In-Class Activities, & Class Participation (20% of final grade)
-You are expected to attend class regularly, since there will be many guest lectures, site visits, and group activities that cannot be made up outside of class.
+You are expected to attend class regularly, since there will be many guest lectures, site visits, and group activities that cannot be made up outside of class. 
 
-## Group Game Project
+### Game Analysis Paper (20% of final grade)
+You will write a 5-7 game analysis of a tourism-focused game (or games), which will be due in week 7.
+
+### Dubrovnik Game Opportunities Paper (20% of final grade)
+You will write a 5-7 page paper identifying opportunities for games that would address challenges faced by either tourists or tourism providers in Dubrovnik.  
+
+## Group Game Project (IGME 580 Grade)
 Projects will be assessed twice; once at the end of week 7, and once at the end of the semester. 
 
-### Midterm Assessment (10% of final grade)
+### Midterm Assessment (30% of final grade)
 I will assess your group's progress at the end of week 7. This assessment will include your pitches, proposals, ongoing documentation, and team communication and organization effectiveness.  I will include a peer evaluation component in this assessment. 
 
 If you have created a prototype and/or performed a playtest, I will review that separately, and will use it to determine whether you should apply to pitch your game at the Reboot Develop conference. 
 
-### Final Assessment (40% of final grade)
+### Final Assessment (70% of final grade)
 Your final assessment will include all prototypes and playtests, design documentation, team communication and effectiveness, and the final version of the game itself. I will include a peer evaluation component in this assessment, as well. 
 
 	
