@@ -27,6 +27,8 @@ On Tuesday we'll review the syllabus, and talk about the overall goals of the tw
 
 On Thursday we'll do a crash course in tourism basics, with a focus on the intersection with game design concepts. 
 
+[Tuesday Slides on Games & Tourism](week1intro.pdf)
+
 ### Thursday Readings
 
 * [Sharpley, R. (2006). *Travel and Tourism*](https://mycourses.rit.edu/d2l/le/content/676759/viewContent/4924755/View) Pages 12-27, 35-54
@@ -38,7 +40,7 @@ On Tuesday we'll talk about and look at a variety of existing games related to t
 ### Tuesday Readings
 
 * [Digital Tourism Think Tank. (2014). Gaming and Gamification in Tourism: 10 Ways to Make Tourism More Playful.](https://mycourses.rit.edu/d2l/le/content/676759/viewContent/4925523/View)
-* [Xu, F., Buhalis, D., & Weber, J. (2017). Serious games and the gamification of tourism. Tourism Management, 60, 244–256.](https://mycourses.rit.edu/d2l/le/content/676759/viewContent/4925518/View)
+* [Xu, F., Buhalis, D., & Weber, J. (2017). Serious games and the gamification of tourism. Tourism Management, 60, 244–256.](https://www.sciencedirect.com/science/article/pii/S0261517716302369) (you may need to be logged into the RIT VPN)
 
 
 ### Thursday Readings
@@ -60,13 +62,15 @@ On Tuesday we'll talk about and look at a variety of existing games related to t
 ## <a name="week4">Week 4</a> (Feb 5/7): Augmented Reality Games & Toolkits
 
 ## Tuesday Readings
-* [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
+* [Nóbrega, R., Jacob, J., Coelho, A., Weber, J., Ribeiro, J., & Ferreira, S. (2017). Mobile location-based augmented reality applications for urban tourism storytelling. In 2017 24 #186; Encontro Portugu #234;s de Computa #231; #227;o Gr #225;fica e Intera #231; #227;o (EPCGI) (pp. 1–8).](https://doi.org/10.1109/EPCGI.2017.8124314) (you may need to be logged into the RIT VPN to access this)
+
 
 ## Thursday Resources
+* [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
 * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
   * [Getting Started with Vuforia in Unity](https://library.vuforia.com/content/vuforia-library/en/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
   * [Getting Started with Vuforia for Android Development](https://library.vuforia.com/articles/Solution/Getting-Started-with-Vuforia-for-Android-Development.html)
 
-  * [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
+* [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
     * [Simple Augmented Reality Game with Unity and Tango](https://developers.google.com/tango/apis/unity/unity-simple-ar)
 
