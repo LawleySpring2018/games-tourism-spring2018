@@ -53,7 +53,7 @@ After watching the videos during the first half of class, you'll use the lab com
 
 Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srd.  
 
-## <a name="week2">Week 3</a> Games & Gamification in Tourism (Jan 29/31): 
+## <a name="week3">Week 3</a> Games & Gamification in Tourism (Jan 29/31): 
 
 On Tuesday we'll talk about a variety of existing games related to tourism, and on Thursday we'll look at the ARIS and SIFTR platforms for creating for mobile location-based games and activities.  
 
