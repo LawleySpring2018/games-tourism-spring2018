@@ -5,7 +5,7 @@
 
 Register for the (free) [EdX Tourism and Travel Management class](https://www.edx.org/course/tourism-travel-management-uqx-tourismx) from Queensland University.
 
-Create a document (Word, Google, or any format that can hold both text and images) to record your responses to the "knowledge checkpoint" activities listed below. (You can review the videos and/or their transcripts as necessary.) When you're done, you'll submit the document to the myCourses dropbox for this week. It should be submitted by 6pm on Thursday. 
+Create a document (Word, Google, or any format that can hold both text and images) to record your responses to the "knowledge checkpoint" activities listed below. (You can review the videos and/or their transcripts as necessary.) When you're done, you'll submit the document to the [myCourses dropbox for this week](https://mycourses.rit.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=1485990&grpid=0&isprv=0&bp=0&ou=676759). It should be submitted by 6pm on Thursday. 
 
 ## Topic 2: Sustainability
 Complete the drag and drop checkpoint exercises for Tourism impacts and Clever design, and include a screenshot of each. 
