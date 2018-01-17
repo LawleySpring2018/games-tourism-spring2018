@@ -3,10 +3,10 @@
 
 # Schedule of Topics
 - [Week 1 (Jan 15/17): Course Overview, Expectations, & Tools](#week1)
-- [Week 2 (Jan 22/24): Games and Gamification in Tourism](#week2)
-- [Week 3 (Jan 29/31): Dubrovnik History & Heritage; Tourism Challenges](#week3)
+- [Week 2 (Jan 22/24): Dubrovnik History & Heritage](#week2)
+- [Week 3 (Jan 29/31): Games and Gamification in Tourism](#week3)
 - [Week 4 (Feb 5/7): Augmented Reality Games & Toolkits](#week4)
-- [Week 5 (Feb 12/14): ](#week5)
+- [Week 5 (Feb 12/14): Tourism Challenges in Dubrovnik](#week5)
 - [Week 6 (Feb 19/21): ](#week6)
 - [Week 7 (Feb 26/28): ](#week7)
 - [Week 8 (Mar 5/7): ](#week8)
@@ -49,41 +49,49 @@ On Wednesday we'll do a crash course in tourism basics, with a focus on the inte
 ### [Wednesday In-Class Exercise](w1b-exercise.md)
 After watching the videos during the first half of class, you'll use the lab computers to complete the activities in the EdX class during the second half of class. 
 
+## <a name="week2">Week 2</a> (Jan 22/24): Dubrovnik History & Culture
 
-## <a name="week2">Week 2</a> Games & Gamification in Tourism (Jan 22/24): 
+Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srd.  
 
-On Tuesday we'll talk about and look at a variety of existing games related to tourism, and on Thursday we'll look at some existing toolkits for exploration-focused games.  
+## <a name="week2">Week 3</a> Games & Gamification in Tourism (Jan 29/31): 
+
+On Tuesday we'll talk about a variety of existing games related to tourism, and on Thursday we'll look at the ARIS and SIFTR platforms for creating for mobile location-based games and activities.  
 
 ### Monday Readings
 
 * [Digital Tourism Think Tank. (2014). Gaming and Gamification in Tourism: 10 Ways to Make Tourism More Playful.](https://mycourses.rit.edu/d2l/le/content/676759/viewContent/4925523/View)
 * [Xu, F., Buhalis, D., & Weber, J. (2017). Serious games and the gamification of tourism. Tourism Management, 60, 244–256.](https://www.sciencedirect.com/science/article/pii/S0261517716302369) (you may need to be logged into the RIT VPN)
-
+* [Nóbrega, R., Jacob, J., Coelho, A., Weber, J., Ribeiro, J., & Ferreira, S. (2017). Mobile location-based augmented reality applications for urban tourism storytelling.](https://doi.org/10.1109/EPCGI.2017.8124314) (you may need to be logged into the RIT VPN to access this)
 
 ### Wednesday Readings
 * [Introduction to SIFTR](https://fielddaylab.org/courses/siftr)
 * [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
 
 
-## <a name="week3">Week 3</a> (Jan 29/31): Dubrovnik History & Culture; Local Tourism Challenges
+## <a name="week4">Week 4</a> (Feb 5/7): Dubrovnik-specific Tourism Challenges; Initial Game Pitches
 
 ### Monday Readings
-
-
-### Wednesday Readings 
-* [Foster, J. (2017, June 23). *The death of Dubrovnik? Crowds and cruise ships have ruined the city, claim locals.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-faces-overcrowding-cruise-ship-visitors-/)
+* [Tourism planning (7:01)](https://www.youtube.com/watch?v=bqW_H7Liawo)
+* [Infrastructure & transport (9:58)](https://www.youtube.com/watch?v=4e6ZlMnQvBQ)
+* [Tourism in protected areas (12:14)](https://www.youtube.com/watch?v=xR1AUohLLu0)
+* [Indigenous & community-based tourism (7:49)](https://www.youtube.com/watch?v=-nB3l9OqueU)
+* [Aziz Abu Sarah @ TED 2014: For more tolerance, we need more ... tourism? (4m)](https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism#t-19062)
+* [Simmonds, L. (2017, July 9). *Shocking Find: One Huge Cruise Ship Does More Damage to Environment than One Million Cars.*](https://www.total-croatia-news.com/news/20304-shocking-find-one-huge-cruise-ship-damages-environment-more-than-one-million-cars)* [Foster, J. (2017, June 23). *The death of Dubrovnik? Crowds and cruise ships have ruined the city, claim locals.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-faces-overcrowding-cruise-ship-visitors-/)
 * [Kettle, M. (2017, August 11). *Mass tourism is at a tipping point – but we’re all part of the problem.* The Guardian.](http://www.theguardian.com/commentisfree/2017/aug/11/tourism-tipping-point-travel-less-damage-destruction)
 * [Morris, H. (2017, August 11). *Dubrovnik plans drastic tourist limits, and curbs on cruise ships, to save World Heritage status.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-tourist-limits-unesco-frankovic/)
-* [Simmonds, L. (2017, July 9). *Shocking Find: One Huge Cruise Ship Does More Damage to Environment than One Million Cars.*](https://www.total-croatia-news.com/news/20304-shocking-find-one-huge-cruise-ship-damages-environment-more-than-one-million-cars)
 
-## <a name="week4">Week 4</a> (Feb 5/7): Augmented Reality Games & Toolkits
-
-## Monday Readings
-* [Nóbrega, R., Jacob, J., Coelho, A., Weber, J., Ribeiro, J., & Ferreira, S. (2017). Mobile location-based augmented reality applications for urban tourism storytelling. In 2017 24 #186; Encontro Portugu #234;s de Computa #231; #227;o Gr #225;fica e Intera #231; #227;o (EPCGI) (pp. 1–8).](https://doi.org/10.1109/EPCGI.2017.8124314) (you may need to be logged into the RIT VPN to access this)
+### Wednesday Activity
+Initial game pitches, critiques, and discussion.
 
 
-## Wednesday Resources
+## <a name="week5">Week 5</a> (Feb 5/7): Augmented Reality Games & Toolkits
+
+## Readings
 * [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
+* [Let's get mobile (9:06)](https://www.youtube.com/watch?v=ckCGlAVyWHc)
+* [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1CA4Vw)
+
+## Resources and Tutorials
 * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
   * [Getting Started with Vuforia in Unity](https://library.vuforia.com/content/vuforia-library/en/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
   * [Getting Started with Vuforia for Android Development](https://library.vuforia.com/articles/Solution/Getting-Started-with-Vuforia-for-Android-Development.html)
