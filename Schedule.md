@@ -33,6 +33,23 @@ On Thursday we'll do a crash course in tourism basics, with a focus on the inter
 
 * [Sharpley, R. (2006). *Travel and Tourism*](https://mycourses.rit.edu/d2l/le/content/676759/viewContent/4924755/View) Pages 12-27, 35-54
 
+### Thursday In-Class Videos
+* [edX Tourism and Travel Management Course](https://www.edx.org/course/tourism-travel-management-uqx-tourismx)
+    * [What is tourism? (9:11)](https://www.youtube.com/watch?v=AWshDVRCMQk)
+    * [What is sustainable tourism? (4:14)](https://www.youtube.com/watch?v=ZhlW8YWwmw8)
+    * [Clever design (9:47)](https://www.youtube.com/watch?v=TCpDO1jTC9o)
+    * [Influencing tourist behavior (11:17)](https://www.youtube.com/watch?v=ArHZ9E4hr_o)
+    * [Planning & development basics (5:27)](https://www.youtube.com/watch?v=59TY1CQDCIk)
+    * [Managing & leading tourism organizations (6:43)](https://www.youtube.com/watch?v=aA_nwS-vd0k)
+    * [Understanding visitor experiences (7:52)](https://www.youtube.com/watch?v=MwRwtMxHV6Q)
+    * [Creating memorable experiences (10:21)](https://www.youtube.com/watch?v=E-MHoOVhSqg)
+    * [Customer segments (6:51)](https://www.youtube.com/watch?v=QlfKUfv1vyM)
+    * [Determining service quality (10:24)](https://www.youtube.com/watch?v=gNe6tSYdBGY)
+
+### [Thursday In-Class Exercise](w1b-exercise.md)
+After watching the videos during the first half of class, you'll use the lab computers to complete the activities in the EdX class during the second half of class. 
+
+
 ## <a name="week2">Week 2</a> Games & Gamification in Tourism (Jan 22/24): 
 
 On Tuesday we'll talk about and look at a variety of existing games related to tourism, and on Thursday we'll look at some existing toolkits for exploration-focused games.  
