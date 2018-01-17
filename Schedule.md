@@ -51,7 +51,7 @@ After watching the videos during the first half of class, you'll use the lab com
 
 ## <a name="week2">Week 2</a> (Jan 22/24): Dubrovnik History & Culture
 
-Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srd.  
+Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srd. (If wind and rain prevent us from doing this, we'll swap weeks 2 and 3.)
 
 ## <a name="week3">Week 3</a> Games & Gamification in Tourism (Jan 29/31): 
 
