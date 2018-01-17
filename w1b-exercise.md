@@ -1,7 +1,7 @@
 |  RIT IGME-590: Seminar in Games & Tourism | Spring 2018, Dubrovnik | [Back to Schedule](Schedule.md) |
 |----|----|----|
 
-# Week 1 Tourism Crash Course: In-Class Exercise
+# Week 1 (Tourism Crash Course): In-Class Exercise
 
 Register for the (free) [EdX Tourism and Travel Management class](https://www.edx.org/course/tourism-travel-management-uqx-tourismx) from Queensland University.
 
@@ -19,6 +19,7 @@ Complete the following checkpoint exercises for this topic:
 * Four characteristics of services and experiences quiz (include screenshot)
 * Customer segments quiz (include screenshots)
 * Determining service quality: Think about the last time you stayed in a hotel, bed and breakfast or even an AirBnB. Explain how and when you evaluated the check-in process?  How would you have evaluated the process using the RATER dimensions?  What could have been improved upon? Include your answers in the document. 
+
 
 <hr>
 If you have time left after completing the exercise, you can start on your journal entry for this week. It should be completed by Sunday at noon. 
