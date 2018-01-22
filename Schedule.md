@@ -51,8 +51,7 @@ After watching the videos during the first half of class, you'll use the lab com
 
 ## <a name="week2">Week 2</a> (Jan 22/24): Dubrovnik History & Culture
 
-Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srđ. (If wind and rain prevent us from doing this, we'll swap weeks 2 and 3.)
-
+Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srđ. (Weather will determine order.)
 ### Old Town
 * [Self-Guided Tour of Dubrovnik](https://europeupclose.com/article/dubrovniks-sights-budget-traveler-self-guided-tour/)
 * [GPS My City Walking Tours (app and website)](https://www.gpsmycity.com/gps-tour-guides/dubrovnik-2534.html)
