@@ -51,7 +51,19 @@ After watching the videos during the first half of class, you'll use the lab com
 
 ## <a name="week2">Week 2</a> (Jan 22/24): Dubrovnik History & Culture
 
-Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srd. (If wind and rain prevent us from doing this, we'll swap weeks 2 and 3.)
+Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srđ. (If wind and rain prevent us from doing this, we'll swap weeks 2 and 3.)
+
+### Old Town
+* [Self-Guided Tour of Dubrovnik](https://europeupclose.com/article/dubrovniks-sights-budget-traveler-self-guided-tour/)
+* [GPS My City Walking Tours (app and website)](https://www.gpsmycity.com/gps-tour-guides/dubrovnik-2534.html)
+* [Siftr Collaborative Mapping App](http://siftr.org/)
+* [Siftr: See the World with New Eyes](https://medium.com/@fielddaylab/siftr-see-the-world-with-new-eyes-621fa96a6d0d)
+
+### Mt Srđ
+*[Museum of Croatian War of Independence](http://www.tzdubrovnik.hr/lang/en/get/muzeji/5681/museum_of_croatian_war_of_independence.html)
+*[Balkans War: A Brief Guide (BBC)](http://www.bbc.com/news/world-europe-17632399)
+*[Yugoslav Wars (Wikipedia)](https://en.wikipedia.org/wiki/Yugoslav_Wars)
+
 
 ## <a name="week3">Week 3</a> Games & Gamification in Tourism (Jan 29/31): 
 
@@ -76,9 +88,10 @@ On Tuesday we'll talk about a variety of existing games related to tourism, and 
 * [Tourism in protected areas (12:14)](https://www.youtube.com/watch?v=xR1AUohLLu0)
 * [Indigenous & community-based tourism (7:49)](https://www.youtube.com/watch?v=-nB3l9OqueU)
 * [Aziz Abu Sarah @ TED 2014: For more tolerance, we need more ... tourism? (4m)](https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism#t-19062)
-* [Simmonds, L. (2017, July 9). *Shocking Find: One Huge Cruise Ship Does More Damage to Environment than One Million Cars.*](https://www.total-croatia-news.com/news/20304-shocking-find-one-huge-cruise-ship-damages-environment-more-than-one-million-cars)* [Foster, J. (2017, June 23). *The death of Dubrovnik? Crowds and cruise ships have ruined the city, claim locals.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-faces-overcrowding-cruise-ship-visitors-/)
+* [Simmonds, L. (2017, July 9). *Shocking Find: One Huge Cruise Ship Does More Damage to Environment than One Million Cars.* Total Croatia News.](https://www.total-croatia-news.com/news/20304-shocking-find-one-huge-cruise-ship-damages-environment-more-than-one-million-cars)* [Foster, J. (2017, June 23). *The death of Dubrovnik? Crowds and cruise ships have ruined the city, claim locals.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-faces-overcrowding-cruise-ship-visitors-/)
 * [Kettle, M. (2017, August 11). *Mass tourism is at a tipping point – but we’re all part of the problem.* The Guardian.](http://www.theguardian.com/commentisfree/2017/aug/11/tourism-tipping-point-travel-less-damage-destruction)
 * [Morris, H. (2017, August 11). *Dubrovnik plans drastic tourist limits, and curbs on cruise ships, to save World Heritage status.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-tourist-limits-unesco-frankovic/)
+* [Bradbury, P. (2018, January 17). *Cruises, Crowds, GoT through the Eyes of a Dubrovnik Tour Guide: Ivana Sepak Interview*. Total Croatia News.](https://www.total-croatia-news.com/travel/24527-cruises-crowds-got-through-the-eyes-of-a-dubrovnik-tour-guide-ivana-sepak-interview)
 
 ### Wednesday Activity
 Initial game pitches, critiques, and discussion.
