@@ -60,9 +60,9 @@ Weather permitting, this week will be about immersion in Dubrovnik history and c
 * [Siftr: See the World with New Eyes](https://medium.com/@fielddaylab/siftr-see-the-world-with-new-eyes-621fa96a6d0d)
 
 ### Mt Srđ
-*[Museum of Croatian War of Independence](http://www.tzdubrovnik.hr/lang/en/get/muzeji/5681/museum_of_croatian_war_of_independence.html)
-*[Balkans War: A Brief Guide (BBC)](http://www.bbc.com/news/world-europe-17632399)
-*[Yugoslav Wars (Wikipedia)](https://en.wikipedia.org/wiki/Yugoslav_Wars)
+* [Museum of Croatian War of Independence](http://www.tzdubrovnik.hr/lang/en/get/muzeji/5681/museum_of_croatian_war_of_independence.html)
+* [Balkans War: A Brief Guide (BBC)](http://www.bbc.com/news/world-europe-17632399)
+* [Yugoslav Wars (Wikipedia)](https://en.wikipedia.org/wiki/Yugoslav_Wars)
 
 
 ## <a name="week3">Week 3</a> Games & Gamification in Tourism (Jan 29/31): 
