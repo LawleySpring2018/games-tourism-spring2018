@@ -70,7 +70,7 @@ Weather permitting, this week will be about immersion in Dubrovnik history and c
 
 ## <a name="week3">Week 3:</a> Games & Gamification in Tourism (Jan 29/31): 
 
-On Tuesday we'll talk about a variety of existing games related to tourism, and on Thursday we'll look at the ARIS and SIFTR platforms for creating for mobile location-based games and activities.  
+On Monday we'll talk about a variety of existing games related to tourism, and on Wednesday we'll look at the ARIS and SIFTR platforms for creating for mobile location-based games and activities.  
 
 ### Monday Readings
 
