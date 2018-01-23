@@ -62,6 +62,7 @@ Weather permitting, this week will be about immersion in Dubrovnik history and c
 * [Self-Guided Tour of Dubrovnik](https://europeupclose.com/article/dubrovniks-sights-budget-traveler-self-guided-tour/)
 
 ### Wednesday: Mt Srđ
+* [Mobile Experiences of Historical Place: A Multimodal Analysis of Emotional Engagement (must be connected to RIT VPN to access)](http://www.tandfonline.com/doi/abs/10.1080/10508406.2015.1115761)
 * [Museum of Croatian War of Independence](http://www.tzdubrovnik.hr/lang/en/get/muzeji/5681/museum_of_croatian_war_of_independence.html)
 * [Balkans War: A Brief Guide (BBC)](http://www.bbc.com/news/world-europe-17632399)
 * [Yugoslav Wars (Wikipedia)](https://en.wikipedia.org/wiki/Yugoslav_Wars)
@@ -90,6 +91,7 @@ On Tuesday we'll talk about a variety of existing games related to tourism, and 
 * [Tourism in protected areas (12:14)](https://www.youtube.com/watch?v=xR1AUohLLu0)
 * [Indigenous & community-based tourism (7:49)](https://www.youtube.com/watch?v=-nB3l9OqueU)
 * [Aziz Abu Sarah @ TED 2014: For more tolerance, we need more ... tourism? (4m)](https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism#t-19062)
+* [Minihane, J. (2018, January 18). *12 destinations travelers might want to avoid in 2018.* CNN.](https://edition.cnn.com/travel/article/places-to-avoid-2018/index.html)
 * [Simmonds, L. (2017, July 9). *Shocking Find: One Huge Cruise Ship Does More Damage to Environment than One Million Cars.* Total Croatia News.](https://www.total-croatia-news.com/news/20304-shocking-find-one-huge-cruise-ship-damages-environment-more-than-one-million-cars)
 * [Foster, J. (2017, June 23). *The death of Dubrovnik? Crowds and cruise ships have ruined the city, claim locals.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-faces-overcrowding-cruise-ship-visitors-/)
 * [Kettle, M. (2017, August 11). *Mass tourism is at a tipping point – but we’re all part of the problem.* The Guardian.](http://www.theguardian.com/commentisfree/2017/aug/11/tourism-tipping-point-travel-less-damage-destruction)
