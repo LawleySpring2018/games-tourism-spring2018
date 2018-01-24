@@ -52,16 +52,17 @@ After watching the videos during the first half of class, you'll use the lab com
 ## <a name="week2">Week 2</a> (Jan 22/24): Dubrovnik History & Culture
 
 Weather permitting, this week will be about immersion in Dubrovnik history and culture. We'll have an in-depth tour of the Old Town, and will take a trip up Mt Srđ. (Weather will determine order.)
-### Monday: Experiencing the Old Town 
 
-**[Monday Exercise: Using Siftr to Create Collaborative Maps](w2a-exercise.md)**
+### [Week 2 Exercises: Using Siftr for Collaborative Mapping](w2a-exercise.md)
+
+### Monday Readings: Siftr and Dubrovnik's Old Town 
 
 * [Siftr Site](http://siftr.org/)
 * [Siftr: See the World with New Eyes](https://medium.com/@fielddaylab/siftr-see-the-world-with-new-eyes-621fa96a6d0d)
 * [GPS My City Walking Tours (app and website)](https://www.gpsmycity.com/gps-tour-guides/dubrovnik-2534.html)
 * [Self-Guided Tour of Dubrovnik](https://europeupclose.com/article/dubrovniks-sights-budget-traveler-self-guided-tour/)
 
-### Wednesday: Mt Srđ
+### Wednesday: Emotional Engagement; Balkans War
 * [Mobile Experiences of Historical Place: A Multimodal Analysis of Emotional Engagement (must be connected to RIT VPN to access)](http://www.tandfonline.com/doi/abs/10.1080/10508406.2015.1115761)
 * [Museum of Croatian War of Independence](http://www.tzdubrovnik.hr/lang/en/get/muzeji/5681/museum_of_croatian_war_of_independence.html)
 * [Balkans War: A Brief Guide (BBC)](http://www.bbc.com/news/world-europe-17632399)

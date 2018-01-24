@@ -1,8 +1,9 @@
 |  RIT IGME-590: Seminar in Games & Tourism | Spring 2018, Dubrovnik | [Back to Schedule](Schedule.md) |
 |----|----|----|
 
-# Week 2 Monday Exercise: Using Siftr to Map the Old Town
+# Week 2 Exercise: Using Siftr for Collaborative Mapping
 
+## Monday: Dubrovnik's Old Town
 Today you'll be using [Siftr](http://siftr.org) to create a collaborative map of the Old Town. I've created a Siftr called ["Experiencing Dubrovnik's Old Town"](https://siftr.org/dubrovnikoldtown/), and you should be able to find it by searching for "Dubrovnik" in the Siftr app. 
 
 Siftr allows you to take a photo, assign a category to it, add a description, and have it be attached to the map in your current location. (You can also edit the location at the time, or later.) 
@@ -13,4 +14,7 @@ You can use an existing walking tour from a book or app (GPS My City has several
 
 You can walk with other students, but I'd prefer that you keep it to groups of no more than three, so that there's variation in what's seen and experienced. Whether you're solo or in a group, I'd like person to add at least five items. (Try to avoid duplicates, unless you have a very different experience of the same location/item.)
 
-I expect your items, with category and description, to be added to the Siftr no later than 8pm on Tuesay, 23 January. 
+I expect your items, with category and description, to be added to the Siftr no later than 8pm on Tuesday, 23 January. 
+
+## Wednesday: Mt. Srdj and the Museum of Croatian War of Independence
+Today you'll be adding photos to http://siftr.org/mtsrdj-memories. Instead of the wide range of emotions provided for categories in the Old Town map, this map uses only five categories, ranging from "very negative" to "very positive". (Negative emotions could include sadness, anger, frustration, etc.) Please make sure that you add a description explaining what the photo represents, and what the emotion was that you were experiencing. 
