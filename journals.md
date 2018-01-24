@@ -13,7 +13,7 @@ Each journal entry will receive one of four possible grades: Unacceptable/Missin
 
 <table>
 <tr>
-    <th width="10%">Criterion</th>
+    <th width="10%">&nbsp;</th>
     <th width="30%">Excellent</th>
     <th width="30%">Good</th>
     <th width="30%">Poor</th>
