@@ -45,7 +45,7 @@ I give only three possible final grades in these classes. You'll receive a grade
 
 ## Individual Assignments (IGME 590 Grade)
 
-### Class Journal or Blog (40% of final grade)
+### [Class Journal or Blog (40% of final grade)](journals.md)
 Each week there will be lectures, readings, and in-class activities. You will be expected to maintain a journal in which you discuss the week's materials and activities--either as a Google Doc (with access granted to me), or as an entry on the class blog. You will receive a weekly grade on this, although the grades will only be posted every 2-3 weeks. 
 
 ### Attendance, In-Class Activities, & Class Participation (20% of final grade)
