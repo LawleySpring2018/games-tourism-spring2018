@@ -11,8 +11,29 @@ Because the journal entries are a significant component of your grade, and take 
 
 Each journal entry will receive one of four possible grades: Unacceptable/Missing (0%), Poor (40%), Good (70%), and Excellent (100%). Here are my expectations for each grade. While they are broken down in the rubric, I do not assess each component separately--the grade is for the overall quality of the entry. 
 
-| | Excellent | Good | Poor |
-|---|---|---|---|
-|Content| Provides thoughtful connections between the concepts covered in class and in readings, and their application to game design and development. Shows evidence of having read and understood all readings, and attended all classes. Includes personal context and experience, in both text and visual form, rather than repetition of course materials. Offers novel insights into the week's topics. Draws connections to material in other classes (past or current). Well-organized. | Discusses the week's presentations, activities, and readings, with some connections drawn between the materials. Provides some insights into the material. | Addresses only some of the week's material, and/or repeats ideas from the material without drawing connections or adding insight. Provides little or no connection between the week's materials and personal experience. |
-|Effort| Goes beyond the basic requirements, and shows considerable care and effort. | Meets all of the requirements. | Does not meet all of the requirements. |
-|Mechanics| Excellent grammar, syntax, spelling, and use of punctuation. (I do take into account whether English is your native language.)| Minimal errors | Significant errors |
+<table>
+<tr>
+    <th width="10%">Criterion</th>
+    <th width="30%">Excellent</th>
+    <th width="30%">Good</th>
+    <th width="30%">Poor</th>
+</tr>
+<tr>
+    <th valign="top">Content</th>
+    <td valign="top">Provides thoughtful connections between the concepts covered in class and in readings, and their application to game design and development. Shows evidence of having read and understood all readings, and attended all classes. Includes personal context and experience, in both text and visual form, rather than repetition of course materials. Offers novel insights into the week's topics. Draws connections to material in other classes (past or current). Well-organized.</td> 
+    <td valign="top">Discusses the week's presentations, activities, and readings, with some connections drawn between the materials. Provides some insights into the material.</td>
+    <td  valign="top">Addresses only some of the week's material, and/or repeats ideas from the material without drawing connections or adding insight. Provides little or no connection between the week's materials and personal experience.</td>
+</tr>
+<tr>
+    <th valign="top">Effort</th>
+    <td valign="top">Goes beyond the basic requirements, and shows considerable care and effort.</td> 
+    <td valign="top">Meets all of the requirements.</td>
+    <td valign="top">Does not meet all of the requirements.</td>
+</tr>
+<tr>
+    <th valign="top">Mechanics</th>
+    <td valign="top">Excellent grammar, syntax, spelling, and use of punctuation. (I do take into account whether English is your native language.)</td>
+    <td valign="top">Minimal errors</td>
+    <td valign="top">Significant errors</td>
+</tr>
+</table>
