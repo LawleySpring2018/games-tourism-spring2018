@@ -1,4 +1,4 @@
-|  RIT IGME-590/580: Seminar/Production Studio in Games & Tourism | Spring 2018, Dubrovnik | [Course Syllabus](README.md) |
+|  RIT IGME-590/580: <br>Seminar/Production Studio in Games & Tourism | Spring 2018, Dubrovnik | [Course Syllabus](README.md) |
 |----|----|----|
 
 # Schedule of Topics
