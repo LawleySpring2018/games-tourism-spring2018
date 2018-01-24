@@ -1,4 +1,4 @@
-|  RIT IGME-590: Seminar in Games & Tourism | Spring 2018, Dubrovnik | [Back to Schedule](Schedule.md) |
+|  RIT IGME-590/580: Seminar/Production Studio in Games & Tourism | Spring 2018, Dubrovnik | [Back to Schedule](Schedule.md) |
 |----|----|----|
 
 # Week 2 Exercise: Using Siftr for Collaborative Mapping
