@@ -14,7 +14,11 @@ You can use an existing walking tour from a book or app (GPS My City has several
 
 You can walk with other students, but I'd prefer that you keep it to groups of no more than three, so that there's variation in what's seen and experienced. Whether you're solo or in a group, I'd like person to add at least five items. (Try to avoid duplicates, unless you have a very different experience of the same location/item.)
 
-I expect your items, with category and description, to be added to the Siftr no later than 8pm on Tuesday, 23 January. 
+If the app doesn't place your photo accurately, or if you add the photos after the fact, make sure you use the item editor in the web interface to select the correct location. 
 
 ## Wednesday: Mt. Srdj and the Museum of Croatian War of Independence
 Today you'll be adding photos to http://siftr.org/mtsrdj-memories. Instead of the wide range of emotions provided for categories in the Old Town map, this map uses only five categories, ranging from "very negative" to "very positive". (Negative emotions could include sadness, anger, frustration, etc.) Please make sure that you add a description explaining what the photo represents, and what the emotion was that you were experiencing. 
+
+
+## Deliverable (due 8am Sunday, 28 January)
+I expect your photos (at least five per map), with accurate location, category, and description, to be added to the Siftr no later than 8am on Sunday. If your username is not obviously linked to your name or RIT ID, please make sure you add it to the apprpriate thread in Slack so that I can search for your contributions. 
