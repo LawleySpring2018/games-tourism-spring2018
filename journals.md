@@ -9,7 +9,9 @@ If you are using Google Docs, you can either create a folder and include separat
 
 Because the journal entries are a significant component of your grade, and take the place of tests and/or quizzes, I expect them to be detailed and thoughtful, and to show me that you have a good understanding of that week's materials. A good journal entry will not just repeat content from the week's materials and activities, but will also discuss what you learned, and link that learning to the directly to the readings, presentations, and/or activities. Once you begin work on your games, I expect that you will also discuss what's working or not working for your teams, from both a process and a content standpoint. 
 
-Each journal entry will receive one of four possible grades: Unacceptable/Missing (0%), Poor (40%), Good (70%), and Excellent (100%). Here are my expectations for each grade. While they are broken down in the rubric, I do not assess each component separately--the grade is for the overall quality of the entry. 
+Each journal entry will receive one of four possible grades: Unacceptable/Missing (0%), Poor (70%), Good (85%), and Excellent (100%). If your journal entry is submitted late, without prior permission from me, you cannot receive a grade of Excellent on it. 
+
+Here are my expectations for each grade. While they are broken down in the rubric, I do not assess each component separately--the grade is for the overall quality of the entry. 
 
 <table>
 <tr>
