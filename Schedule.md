@@ -4,9 +4,9 @@
 # Schedule of Topics
 - [Week 1 (Jan 15/17): Course Overview, Expectations, & Tools](#week1)
 - [Week 2 (Jan 22/24): Dubrovnik History & Heritage](#week2)
-- [Week 3 (Jan 29/31): Games and Gamification in Tourism](#week3)
-- [Week 4 (Feb 5/7): Tourism Challenges in Dubrovnik](#week4)
-- [Week 5 (Feb 12/14): Augmented Reality Games & Toolkits](#week5)
+- [Week 3 (Jan 29/31): Tourism Challenges in Dubrovnik (590) / Tourism Game Examples (580)](#week3)
+- [Week 4 (Feb 5/7): Augmented Reality Games & Toolkits / Game Pitches](#week4)
+- [Week 5 (Feb 12/14): ](#week5)
 - [Week 6 (Feb 19/21): ](#week6)
 - [Week 7 (Feb 26/28): ](#week7)
 - [Week 8 (Mar 5/7): ](#week8)
@@ -69,9 +69,9 @@ Weather permitting, this week will be about immersion in Dubrovnik history and c
 * [Yugoslav Wars (Wikipedia)](https://en.wikipedia.org/wiki/Yugoslav_Wars)
 
 
-## <a name="week3">Week 3:</a> Games & Gamification in Tourism (Jan 29/31): 
+## <a name="week3">Week 3</a> (Jan 29/31): Examples of Games in Tourism (590); Dubrovnik-Specific Challenges (580)
 
-On Monday we'll talk about a variety of existing games related to tourism, and on Wednesday we'll look at the ARIS and SIFTR platforms for creating for mobile location-based games and activities.  
+On Monday we'll talk about a variety of existing games related to tourism, and on Wednesday we'll focus on Dubrovnik-specific tourism challenges and opportunities.  
 
 ### Monday Readings
 
@@ -79,14 +79,8 @@ On Monday we'll talk about a variety of existing games related to tourism, and o
 * [Xu, F., Buhalis, D., & Weber, J. (2017). Serious games and the gamification of tourism. Tourism Management, 60, 244–256.](https://www.sciencedirect.com/science/article/pii/S0261517716302369) (you may need to be logged into the RIT VPN)
 * [Nóbrega, R., Jacob, J., Coelho, A., Weber, J., Ribeiro, J., & Ferreira, S. (2017). Mobile location-based augmented reality applications for urban tourism storytelling.](https://doi.org/10.1109/EPCGI.2017.8124314) (you may need to be logged into the RIT VPN to access this)
 
+
 ### Wednesday Readings
-* [Introduction to SIFTR](https://fielddaylab.org/courses/siftr)
-* [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
-
-
-## <a name="week4">Week 4</a> (Feb 5/7): Dubrovnik-specific Tourism Challenges; Initial Game Pitches
-
-### Monday Readings
 * [Tourism planning (7:01)](https://www.youtube.com/watch?v=bqW_H7Liawo)
 * [Infrastructure & transport (9:58)](https://www.youtube.com/watch?v=4e6ZlMnQvBQ)
 * [Tourism in protected areas (12:14)](https://www.youtube.com/watch?v=xR1AUohLLu0)
@@ -99,22 +93,31 @@ On Monday we'll talk about a variety of existing games related to tourism, and o
 * [Morris, H. (2017, August 11). *Dubrovnik plans drastic tourist limits, and curbs on cruise ships, to save World Heritage status.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-tourist-limits-unesco-frankovic/)
 * [Bradbury, P. (2018, January 17). *Cruises, Crowds, GoT through the Eyes of a Dubrovnik Tour Guide: Ivana Sepak Interview*. Total Croatia News.](https://www.total-croatia-news.com/travel/24527-cruises-crowds-got-through-the-eyes-of-a-dubrovnik-tour-guide-ivana-sepak-interview)
 
-### Wednesday Activity
-Initial game pitches, critiques, and discussion.
 
+## <a name="week4">Week 4</a> (Feb 5/7): 590: Augmented Reality Games; 580: Initial Game Pitches
 
-## <a name="week5">Week 5</a> (Feb 5/7): Augmented Reality Games & Toolkits
-
-## Readings
+### Monday Readings
+* [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
 * [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
 * [Let's get mobile (9:06)](https://www.youtube.com/watch?v=ckCGlAVyWHc)
 * [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1CA4Vw)
 
-## Resources and Tutorials
+
+### Wednesday Activity
+Initial game pitches, critiques, and discussion.
+
+
+## <a name="week5">Week 5</a> (Feb 5/7): Unity-Based AR Toolkits
+
+## Readings
 * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
+* [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
+
+## Resources and Tutorials
+* Vuforia
   * [Getting Started with Vuforia in Unity](https://library.vuforia.com/content/vuforia-library/en/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
   * [Getting Started with Vuforia for Android Development](https://library.vuforia.com/articles/Solution/Getting-Started-with-Vuforia-for-Android-Development.html)
 
-* [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
+* Tango
     * [Simple Augmented Reality Game with Unity and Tango](https://developers.google.com/tango/apis/unity/unity-simple-ar)
 
