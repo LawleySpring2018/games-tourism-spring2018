@@ -73,6 +73,8 @@ Weather permitting, this week will be about immersion in Dubrovnik history and c
 
 On Monday we'll talk about a variety of existing games related to tourism, and on Wednesday we'll focus on Dubrovnik-specific tourism challenges and opportunities.  
 
+***Before class on Monday, in addition to the readings, please install the Ingress game on your phone and spend some time playing it. If you don't have data on your phone, team up with a classmate who does.***
+
 ### Monday Readings
 
 * [Digital Tourism Think Tank. (2014). Gaming and Gamification in Tourism: 10 Ways to Make Tourism More Playful.](https://mycourses.rit.edu/d2l/le/content/676759/viewContent/4925523/View)
@@ -81,11 +83,14 @@ On Monday we'll talk about a variety of existing games related to tourism, and o
 
 
 ### Wednesday Readings
+Queensland EdX Videos
 * [Tourism planning (7:01)](https://www.youtube.com/watch?v=bqW_H7Liawo)
 * [Infrastructure & transport (9:58)](https://www.youtube.com/watch?v=4e6ZlMnQvBQ)
 * [Tourism in protected areas (12:14)](https://www.youtube.com/watch?v=xR1AUohLLu0)
 * [Indigenous & community-based tourism (7:49)](https://www.youtube.com/watch?v=-nB3l9OqueU)
-* [Aziz Abu Sarah @ TED 2014: For more tolerance, we need more ... tourism? (4m)](https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism#t-19062)
+    * Related: [Aziz Abu Sarah @ TED 2014: For more tolerance, we need more ... tourism? (4m)](https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism#t-19062)
+
+News Stories About Dubrovnik Tourism
 * [Minihane, J. (2018, January 18). *12 destinations travelers might want to avoid in 2018.* CNN.](https://edition.cnn.com/travel/article/places-to-avoid-2018/index.html)
 * [Simmonds, L. (2017, July 9). *Shocking Find: One Huge Cruise Ship Does More Damage to Environment than One Million Cars.* Total Croatia News.](https://www.total-croatia-news.com/news/20304-shocking-find-one-huge-cruise-ship-damages-environment-more-than-one-million-cars)
 * [Foster, J. (2017, June 23). *The death of Dubrovnik? Crowds and cruise ships have ruined the city, claim locals.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-faces-overcrowding-cruise-ship-visitors-/)
@@ -94,7 +99,8 @@ On Monday we'll talk about a variety of existing games related to tourism, and o
 * [Bradbury, P. (2018, January 17). *Cruises, Crowds, GoT through the Eyes of a Dubrovnik Tour Guide: Ivana Sepak Interview*. Total Croatia News.](https://www.total-croatia-news.com/travel/24527-cruises-crowds-got-through-the-eyes-of-a-dubrovnik-tour-guide-ivana-sepak-interview)
 
 
-## <a name="week4">Week 4</a> (Feb 5/7): 590: Augmented Reality Games; 580: Initial Game Pitches
+## <a name="week4">Week 4</a> (Feb 5/7): Augmented Reality Games & Tools; Initial Game Pitches
+
 
 ### Monday Readings
 * [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
