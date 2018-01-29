@@ -58,14 +58,17 @@ You will write a 5-7 page paper about an existing tourism-focused game (or games
 You will write a 5-7 page paper identifying opportunities for games (beyond what you worked on in Production Studio) that would address challenges faced by either tourists or tourism providers in Dubrovnik (or another tourist destination). Due week 14. 
 
 ## Group Game Project (IGME 580 Grade)
-Projects will be assessed twice; once at the end of week 7, and once at the end of the semester. 
+Projects will be assessed twice; once at the end of week 7, and once at the end of the semester. Your group will also turn in a series of progress reports throughout the semester. 
 
-### Midterm Assessment (30% of final grade)
-I will assess your group's progress at the end of week 7. This assessment will include your pitches, proposals, ongoing documentation, and team communication and organization effectiveness.  I will include a peer evaluation component in this assessment. 
+### Midterm Assessment (20% of final grade)
+I will assess your group's progress at the end of week 7. This assessment will include your pitches, proposals, ongoing documentation, and team communication and organization effectiveness. I will include a peer evaluation component in this assessment. 
 
-If you have created a prototype and/or performed a playtest, I will review that separately, and will use it to determine whether you should apply to pitch your game at the Reboot Develop conference. 
+If you have created a prototype and/or performed a playtest, I will review that separately, and will use it to determine whether you should apply to pitch your game at the Reboot Develop conference. Applications for the ptiching sessions are due by March 18 at 6pm (which is the day before spring break ends). 
 
-### Final Assessment (70% of final grade)
+### Project Updates (20% of final grade)
+Your group will submit a project progress report at the end of weeks 6, 8, 10, 12, and 14. Each will be worth 4% of your final grade. They should be collaboratively written in Google Docs, so that I'm able to see who contributed and how. 
+
+### Final Assessment (60% of final grade)
 Your final assessment will include all prototypes and playtests, design documentation, team communication and effectiveness, and the final version of the game itself. I will include a peer evaluation component in this assessment, as well. 
 
 	
@@ -78,20 +81,28 @@ Your final assessment will include all prototypes and playtests, design document
 
 ### Communication
 Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: Elizabeth dot Lawley at rit dot edu. 
+
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or may incur a grade penalty. 
+
 ### Missed Classes
 If you miss a class, it is your responsibility to check with classmates for notes to supplement the materials I've already provided online. I will not recap classes for you. 
+
 ### Office Hours
 I will have a minimum of four office hours per week. This is an excellent time to come in with questions on the course material, homework, or in class work. I am always happy to help you understand the course material or assignments—or just to chat about whatever topic you’d like. Take advantage of this time, since few students bother to talk with their professors outside of class. If for some reason I’m called away during office hours, there will be a note on the door. 
+
 ### Mobile Phones 
 Please turn off sounds on your phone, so that you don’t disturb the people around you with notification noises. If you must take a call, please leave the room to do so. 
+
 ### Notices of Accommodation
 If you have a “Notice of Accommodation”, I should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met. 
+
 ### Social Networks
 I don’t initiate friend requests on Facebook, because I don’t want you to feel obligated to accept. However, I do generally accept friend requests from students. I have a private Twitter account that I seldom use, and don’t accept follower requests on it. I maintain a LinkedIn account, and am happy to connect with students there in order to help them find job-related connections. Links to my various social media accounts can be found on my website (lawley.rit.edu). 
+
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, and then only by prior arrangement with me. Note that I only give incompletes in the event of: 1) military deployment or 2) documented and verifiable family or personal illness/emergency. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework does not fall into either of those two categories. Please come see me ASAP if you’re having difficulty so we can find a solution together. 
+
 ### Academic Dishonesty
 My policy on academic dishonesty is simple: If you get caught cheating or plagiarizing, you get an “F” as a grade for the course, a letter detailing the incident goes into your records folder, and you are immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.)
 

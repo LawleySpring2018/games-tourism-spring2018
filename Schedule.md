@@ -7,7 +7,7 @@
 - [Week 3 (Jan 29/31): Tourism Challenges in Dubrovnik (590) / Tourism Game Examples (580)](#week3)
 - [Week 4 (Feb 5/7): Augmented Reality Games & Toolkits / Game Pitches](#week4)
 - [Week 5 (Feb 12/14): ](#week5)
-- [Week 6 (Feb 19/21): ](#week6)
+- [Week 6 (Feb 19/21): Team Structure & Communication](#week6)
 - [Week 7 (Feb 26/28): ](#week7)
 - [Week 8 (Mar 5/7): ](#week8)
 - Spring Break (Mar 10-18)
@@ -71,7 +71,7 @@ Weather permitting, this week will be about immersion in Dubrovnik history and c
 
 ## <a name="week3">Week 3</a> (Jan 29/31): Examples of Games in Tourism (590); Dubrovnik-Specific Challenges (580)
 
-On Monday we'll talk about a variety of existing games related to tourism, and on Wednesday we'll focus on Dubrovnik-specific tourism challenges and opportunities.  
+On Monday we'll talk about a variety of existing games related to tourism, and on Wednesday we'll focus on Dubrovnik-specific tourism challenges and opportunities. I'm hoping we'll have a visitor this week from [DURA](http://dura.hr/), the City of Dubrovnik Development Agency. 
 
 ***Before class on Monday, in addition to the readings, please install the Ingress game on your phone and spend some time playing it. If you don't have data on your phone, team up with a classmate who does.***
 
@@ -81,45 +81,75 @@ On Monday we'll talk about a variety of existing games related to tourism, and o
 * [Xu, F., Buhalis, D., & Weber, J. (2017). Serious games and the gamification of tourism. Tourism Management, 60, 244–256.](https://www.sciencedirect.com/science/article/pii/S0261517716302369) (you may need to be logged into the RIT VPN)
 * [Nóbrega, R., Jacob, J., Coelho, A., Weber, J., Ribeiro, J., & Ferreira, S. (2017). Mobile location-based augmented reality applications for urban tourism storytelling.](https://doi.org/10.1109/EPCGI.2017.8124314) (you may need to be logged into the RIT VPN to access this)
 
+### Monday Activity: Ingress vs Pokemon Go
+Spend at least an hour in the old town playing each of these games (either 30 minutes with each, or an hour alternating between the two). Partner with one other person, and take turns playing and observing the other person play. How does playing each of the games change your experience of the city? What did you see or experience that you didn't when you explored on your own? What did you miss? You should write up your notes about this right afterwards, so that they're fresh in your mind. 
+
+Before Wednesday's class, choose and complete at least one mission in Ingress, either on your own or with a partner. (Note: If the mission has a number associated with it, it's probably because the badges are designed to create a mosaic image if the missions are completed in order. While it's possible to reorder later, it can only be done by redoing the missions--so it's best to start with the first in the sequence if possible.) When you're done, use the share icon in the top right corner of the Agent screen to take a screenshot of your Ingress profile, and post it to the #ingress channel in Slack. 
 
 ### Wednesday Readings
-Queensland EdX Videos
-* [Tourism planning (7:01)](https://www.youtube.com/watch?v=bqW_H7Liawo)
-* [Infrastructure & transport (9:58)](https://www.youtube.com/watch?v=4e6ZlMnQvBQ)
-* [Tourism in protected areas (12:14)](https://www.youtube.com/watch?v=xR1AUohLLu0)
-* [Indigenous & community-based tourism (7:49)](https://www.youtube.com/watch?v=-nB3l9OqueU)
-    * Related: [Aziz Abu Sarah @ TED 2014: For more tolerance, we need more ... tourism? (4m)](https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism#t-19062)
+* Queensland EdX Videos
+    * [Tourism planning (7:01)](https://www.youtube.com/watch?v=bqW_H7Liawo)
+    * [Infrastructure & transport (9:58)](https://www.youtube.com/watch?v=4e6ZlMnQvBQ)
+    * [Tourism in protected areas (12:14)](https://www.youtube.com/watch?v=xR1AUohLLu0)
+    * [Indigenous & community-based tourism (7:49)](https://www.youtube.com/watch?v=-nB3l9OqueU)
+        * Related: [Aziz Abu Sarah @ TED 2014: For more tolerance, we need more ... tourism? (4m)](https://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism#t-19062)
 
-News Stories About Dubrovnik Tourism
-* [Minihane, J. (2018, January 18). *12 destinations travelers might want to avoid in 2018.* CNN.](https://edition.cnn.com/travel/article/places-to-avoid-2018/index.html)
-* [Simmonds, L. (2017, July 9). *Shocking Find: One Huge Cruise Ship Does More Damage to Environment than One Million Cars.* Total Croatia News.](https://www.total-croatia-news.com/news/20304-shocking-find-one-huge-cruise-ship-damages-environment-more-than-one-million-cars)
-* [Foster, J. (2017, June 23). *The death of Dubrovnik? Crowds and cruise ships have ruined the city, claim locals.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-faces-overcrowding-cruise-ship-visitors-/)
-* [Kettle, M. (2017, August 11). *Mass tourism is at a tipping point – but we’re all part of the problem.* The Guardian.](http://www.theguardian.com/commentisfree/2017/aug/11/tourism-tipping-point-travel-less-damage-destruction)
-* [Morris, H. (2017, August 11). *Dubrovnik plans drastic tourist limits, and curbs on cruise ships, to save World Heritage status.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-tourist-limits-unesco-frankovic/)
-* [Bradbury, P. (2018, January 17). *Cruises, Crowds, GoT through the Eyes of a Dubrovnik Tour Guide: Ivana Sepak Interview*. Total Croatia News.](https://www.total-croatia-news.com/travel/24527-cruises-crowds-got-through-the-eyes-of-a-dubrovnik-tour-guide-ivana-sepak-interview)
+* News Stories About Dubrovnik Tourism
+    * [Minihane, J. (2018, January 18). *12 destinations travelers might want to avoid in 2018.* CNN.](https://edition.cnn.com/travel/article/places-to-avoid-2018/index.html)
+    * [Simmonds, L. (2017, July 9). *Shocking Find: One Huge Cruise Ship Does More Damage to Environment than One Million Cars.* Total Croatia News.](https://www.total-croatia-news.com/news/20304-shocking-find-one-huge-cruise-ship-damages-environment-more-than-one-million-cars)
+    * [Foster, J. (2017, June 23). *The death of Dubrovnik? Crowds and cruise ships have ruined the city, claim locals.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-faces-overcrowding-cruise-ship-visitors-/)
+    * [Kettle, M. (2017, August 11). *Mass tourism is at a tipping point – but we’re all part of the problem.* The Guardian.](http://www.theguardian.com/commentisfree/2017/aug/11/tourism-tipping-point-travel-less-damage-destruction)
+    * [Morris, H. (2017, August 11). *Dubrovnik plans drastic tourist limits, and curbs on cruise ships, to save World Heritage status.* The Telegraph.](http://www.telegraph.co.uk/travel/destinations/europe/croatia/dubrovnik/articles/dubrovnik-tourist-limits-unesco-frankovic/)
+    * [Bradbury, P. (2018, January 17). *Cruises, Crowds, GoT through the Eyes of a Dubrovnik Tour Guide: Ivana Sepak Interview*. Total Croatia News.](https://www.total-croatia-news.com/travel/24527-cruises-crowds-got-through-the-eyes-of-a-dubrovnik-tour-guide-ivana-sepak-interview)
 
+### Wednesday Activity: Evaluating Self-Guided Tours 
+On Wednesday, I will divide you into groups of 2 or 3, and give you a specific self-guided tour of Dubrovnik to follow. Some of you will be given a printed tour from a guidebook, others will use a mobile web or app based tour.  As you do the tour, think about how it differs from your unstructured wandering using Siftr, and your game-focused exploration using Ingress and Pokemon Go. What do you like about the tour? What don't you like? What would like to see changed? As you did on Monday, write down your notes during and after the tour.
 
-## <a name="week4">Week 4</a> (Feb 5/7): Augmented Reality Games & Tools; Initial Game Pitches
+### Week 3 Deliverables
+By Saturday at 8am, you should submit a brief (one page) write-up of your experiences from the activities on Monday and Wednesday. Include a discussion of why you chose your faction in Ingress. 
 
+In your weekly journal, connect the dots between the readings, the games, and the tours that you took. What did you learn. How has it influenced your game ideas?
+
+Start thinking about what game you want to pitch to the class. We will work on no more than two games this semester, because I don't want you working in groups smaller than four. I will make the final decision on which games we develop, but you will all have signficant input into that decision. Pitches will be next Wednesday (7 Feb). 
+
+## <a name="week4">Week 4</a> (Feb 5/7): Introduction to Geogames; Initial Game Pitches
 
 ### Monday Readings
-* [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
+* [Come Out and Play Festival](http://www.comeoutandplay.org/about/)
+    * [Cruel 2 B Kind](http://www.cruelgame.com/)
+    * [Jewish Time Jump](http://www.converjent.org/jewish-time-jump-new-york_page/get-the-game/)
+
+* [GeoGames Team @ University of Bamberg]
+    * [CityPoker](http://www.geogames-team.org/designer/?lang=en)
+    * [Guesstimate](http://www.geogames-team.org/?p=163)
+
+
+### Monday Activity: GeoGame TBD
+
+### Wednesday Activity: Initial game pitches, critiques, and discussion
+
+
+
+## <a name="week5">Week 5</a> (Feb 5/7): Team Formation, Communication, and Documentation
+
+### Monday Activity: Final Game Selection and Team Establishment
+
+### Wednesday Activity: Development of Initial One-Page Design Doc
+
+
+
+## <a name="week6">Week 6</a> (Feb 12/14): AR Toolkits
+
+## Readings
 * [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
 * [Let's get mobile (9:06)](https://www.youtube.com/watch?v=ckCGlAVyWHc)
 * [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1CA4Vw)
-
-
-### Wednesday Activity
-Initial game pitches, critiques, and discussion.
-
-
-## <a name="week5">Week 5</a> (Feb 5/7): Unity-Based AR Toolkits
-
-## Readings
 * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
 * [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
 
-## Resources and Tutorials
+## Tools and Tutorials
+* [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
+
 * Vuforia
   * [Getting Started with Vuforia in Unity](https://library.vuforia.com/content/vuforia-library/en/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
   * [Getting Started with Vuforia for Android Development](https://library.vuforia.com/articles/Solution/Getting-Started-with-Vuforia-for-Android-Development.html)
