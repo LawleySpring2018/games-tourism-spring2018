@@ -140,14 +140,14 @@ Start thinking about what game you want to pitch to the class. We will work on n
 
 ## <a name="week6">Week 6</a> (Feb 19/21): AR Toolkits
 
-## Readings
+### Readings
 * [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
 * [Let's get mobile (9:06)](https://www.youtube.com/watch?v=ckCGlAVyWHc)
 * [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1CA4Vw)
 * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
 * [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
 
-## Tools and Tutorials
+### Tools and Tutorials
 * [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
 
 * Vuforia
