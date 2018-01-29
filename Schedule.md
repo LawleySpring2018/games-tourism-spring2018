@@ -5,10 +5,10 @@
 - [Week 1 (Jan 15/17): Course Overview, Expectations, & Tools](#week1)
 - [Week 2 (Jan 22/24): Dubrovnik History & Heritage](#week2)
 - [Week 3 (Jan 29/31): Tourism Challenges in Dubrovnik (590) / Tourism Game Examples (580)](#week3)
-- [Week 4 (Feb 5/7): Augmented Reality Games & Toolkits / Game Pitches](#week4)
-- [Week 5 (Feb 12/14): ](#week5)
-- [Week 6 (Feb 19/21): Team Structure & Communication](#week6)
-- [Week 7 (Feb 26/28): ](#week7)
+- [Week 4 (Feb 5/7): Introduction to Geogames (590); Initial Game Pitches (580)](#week4)
+- [Week 5 (Feb 12/14): Team Formation, Communication, and Documentation](#week5)
+- [Week 6 (Feb 19/21): AR Toolkits](#week6)
+- [Week 7 (Feb 26/28): Physical Prototyping/Playtesting](#week7)
 - [Week 8 (Mar 5/7): ](#week8)
 - Spring Break (Mar 10-18)
 - [Week 9 (Mar 19/21): ](#week9)
@@ -112,7 +112,7 @@ In your weekly journal, connect the dots between the readings, the games, and th
 
 Start thinking about what game you want to pitch to the class. We will work on no more than two games this semester, because I don't want you working in groups smaller than four. I will make the final decision on which games we develop, but you will all have signficant input into that decision. Pitches will be next Wednesday (7 Feb). 
 
-## <a name="week4">Week 4</a> (Feb 5/7): Introduction to Geogames; Initial Game Pitches
+## <a name="week4">Week 4</a> (Feb 5/7): Introduction to Geogames (590); Initial Game Pitches (580)
 
 ### Monday Readings
 * [Come Out and Play Festival](http://www.comeoutandplay.org/about/)
@@ -130,7 +130,7 @@ Start thinking about what game you want to pitch to the class. We will work on n
 
 
 
-## <a name="week5">Week 5</a> (Feb 5/7): Team Formation, Communication, and Documentation
+## <a name="week5">Week 5</a> (Feb 12/14): Team Formation, Communication, and Documentation
 
 ### Monday Activity: Final Game Selection and Team Establishment
 
@@ -138,7 +138,7 @@ Start thinking about what game you want to pitch to the class. We will work on n
 
 
 
-## <a name="week6">Week 6</a> (Feb 12/14): AR Toolkits
+## <a name="week6">Week 6</a> (Feb 19/21): AR Toolkits
 
 ## Readings
 * [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
@@ -156,4 +156,7 @@ Start thinking about what game you want to pitch to the class. We will work on n
 
 * Tango
     * [Simple Augmented Reality Game with Unity and Tango](https://developers.google.com/tango/apis/unity/unity-simple-ar)
+
+
+## <a name="week7">Week 7</a> (Feb 26/28): Physical Prototyping/Playtesting
 
