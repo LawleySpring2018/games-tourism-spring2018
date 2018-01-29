@@ -4,7 +4,7 @@
 # Schedule of Topics
 - [Week 1 (Jan 15/17): Course Overview, Expectations, & Tools](#week1)
 - [Week 2 (Jan 22/24): Dubrovnik History & Heritage](#week2)
-- [Week 3 (Jan 29/31): Tourism Challenges in Dubrovnik (590) / Tourism Game Examples (580)](#week3)
+- [Week 3 (Jan 29/31): Examples of Games in Tourism (590); Dubrovnik-Specific Challenges (580)](#week3)
 - [Week 4 (Feb 5/7): Introduction to Geogames (590); Initial Game Pitches (580)](#week4)
 - [Week 5 (Feb 12/14): Team Formation, Communication, and Documentation](#week5)
 - [Week 6 (Feb 19/21): AR Toolkits](#week6)
