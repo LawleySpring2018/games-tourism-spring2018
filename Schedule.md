@@ -154,8 +154,9 @@ Start thinking about what game you want to pitch to the class. We will work on n
   * [Getting Started with Vuforia in Unity](https://library.vuforia.com/content/vuforia-library/en/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
   * [Getting Started with Vuforia for Android Development](https://library.vuforia.com/articles/Solution/Getting-Started-with-Vuforia-for-Android-Development.html)
 
-* Tango
-    * [Simple Augmented Reality Game with Unity and Tango](https://developers.google.com/tango/apis/unity/unity-simple-ar)
+* ARCore
+    * [ARCore Overview](https://developers.google.com/ar/discover/)
+    * [ARCore Development Overview](https://developers.google.com/ar/develop/)
 
 
 ## <a name="week7">Week 7</a> (Feb 26/28): Physical Prototyping/Playtesting
