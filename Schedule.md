@@ -71,7 +71,9 @@ Weather permitting, this week will be about immersion in Dubrovnik history and c
 
 ## <a name="week3">Week 3</a> (Jan 29/31): Examples of Games in Tourism (590); Dubrovnik-Specific Challenges (580)
 
-On Monday we'll talk about a variety of existing games related to tourism, and on Wednesday we'll focus on Dubrovnik-specific tourism challenges and opportunities. I'm hoping we'll have a visitor this week from [DURA](http://dura.hr/), the City of Dubrovnik Development Agency. 
+On Monday we'll talk about a variety of existing games related to tourism, and I'll discuss the difference between serious games, gamification, and gameful design. ([Monday's slides](week3-gameful-design.pdf)). 
+
+On Wednesday we'll focus on Dubrovnik-specific tourism challenges and opportunities. On Wednesday, we'll have a guest lecture and conversation with Nikša Vlahušić from [DURA](http://dura.hr/), the City of Dubrovnik Development Agency. 
 
 ***Before class on Monday, in addition to the readings, please install the Ingress game on your phone and spend some time playing it. If you don't have data on your phone, team up with a classmate who does.***
 
@@ -112,43 +114,72 @@ In your weekly journal, connect the dots between the readings, the games, and th
 
 Start thinking about what game you want to pitch to the class. We will work on no more than two games this semester, because I don't want you working in groups smaller than four. I will make the final decision on which games we develop, but you will all have signficant input into that decision. Pitches will be next Wednesday (7 Feb). 
 
-## <a name="week4">Week 4</a> (Feb 5/7): Introduction to Geogames (590); Initial Game Pitches (580)
+## <a name="week4">Week 4</a> (Feb 5/7): Geogames and Location-Based Games (590); Initial Game Pitches (580)
+
+On Monday of this week, we'll look at and talk about location-based games, geogames, augmented reality games, and mixed reality games. (Which are similar, and can overlap, but are not identical). We'll also start brainstorming ideas about Dubrovnik games, including possible audiences, themes, and platforms. 
+
+On Wednesday, you should come prepared to pitch at least one idea for a game to work on this semester. After the pitches, we'll critique and refine the ideas. I'll create a Slack channel for the ideas, and you'll have until next Monday to ask questions of each other, revise your ideas, and even to add new ones. On Monday of week 5, we'll decide as a group which game or games we're going to work on for the rest of the semester. 
+
+At 4pm on Wednesday, Owen Gottlieb will be giving a talk about his game "Jewish Time Jump"--please make sure you've read the article (posted in myCourses) before class!
 
 ### Monday Readings
-* [Come Out and Play Festival](http://www.comeoutandplay.org/about/)
-    * [Cruel 2 B Kind](http://www.cruelgame.com/)
-    * [Jewish Time Jump](http://www.converjent.org/jewish-time-jump-new-york_page/get-the-game/)
+* (Late addition, sorry!) [Brainstorming Doesn't Work: Try This Technique Instead](https://www.fastcompany.com/3033567/brainstorming-doesnt-work-try-this-technique-instead)
 
 * [GeoGames Team @ University of Bamberg]
     * [CityPoker](http://www.geogames-team.org/designer/?lang=en)
     * [Guesstimate](http://www.geogames-team.org/?p=163)
+    * [Jewish Time Jump](http://www.converjent.org/jewish-time-jump-new-york_page/get-the-game/)
 
+* Location-Based Games
+    * [Come Out and Play Festival](http://www.comeoutandplay.org/about/)
+    * [Tombstone Hold 'Em](http://www.playfolk.org/blog/2014/3/24/play-folk-1-tombstone-hold-em)
+    * [Cruel 2 B Kind](http://www.cruelgame.com/)
 
-### Monday Activity: GeoGame TBD
+### Wednesday Readings
+Wednesday's readings are located on myCourses and/or Slack, due to copright limitations.
 
-### Wednesday Activity: Initial game pitches, critiques, and discussion
-
+* [Gottlieb, O. (2018). Time travel, labour history, and the null curriculum: new design knowledge for mobile augmented reality history games. International Journal of Heritage Studies, 24(3), 287–299. (uploaded to myCourses)](https://mycourses.rit.edu/d2l/le/content/676759/viewContent/5010696/View)
+* [McGonigal, J. (2011). Reality Is Broken: Why Games Make Us Better and How They Can Change the World, chapters 8-10 (uploaded to Slack)](https://dbv-sa-2018.slack.com/files/U7Y1VPUSV/F94KFRM9V/reality_is_broken__why_games_make_us_bette_-_jane_mcgonigal.pdf) 
 
 
 ## <a name="week5">Week 5</a> (Feb 12/14): Team Formation, Communication, and Documentation
 
-### Monday Activity: Final Game Selection and Team Establishment
+This week we'll finalize our game choice(s), and will focus on the tools and processes that your team will need to move forward with the game(s). 
 
-### Wednesday Activity: Development of Initial One-Page Design Doc
+### Monday Readings
+
+* Teams & Tools
+    * [Raph Koster: Typical Game Development Teams](https://www.raphkoster.com/2007/11/02/typical-game-dev-teams/)
+    * [Alistair Doulin: Building a Strong Indie Development Team](https://www.gamasutra.com/blogs/AlistairDoulin/20100107/86323/Building_A_Strong_Indie_Game_Development_Team.php)
+    * [Kanban and Game Development with Trello](http://www.nicoespeon.com/en/2016/01/kanban-game-development-trello/)
+
+* AR Concepts and Toolkits
+    * Queensland EdX Videos [Let's get mobile (9:06)](https://www.youtube.com/watch?v=ckCGlAVyWHc)
+and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1CA4Vw)
+    * [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
+    * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
+    * [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
 
 
+### Wednesday Readings
+* [Stone Librande @ GDC 2010: One-Page Designs](https://www.gdcvault.com/play/1012356/One-Page)
+* [How to Write a Game Design Document](https://www.gamasutra.com/blogs/LeandroGonzalez/20160726/277928/How_to_Write_a_Game_Design_Document.php)
+* [Game Design Document Examples](http://seriousgamesnet.eu/assets/view/238)
+* [Game Design Logs](http://www.lostgarden.com/2011/05/game-design-logs.html)
+* [Storyboarding](https://multimedia.journalism.berkeley.edu/tutorials/starttofinish-storyboarding/)
 
-## <a name="week6">Week 6</a> (Feb 19/21): AR Toolkits
+##  <a name="week6">Week 6</a> (Feb 19/21): Physical Prototyping/Playtesting
+* [Paper Prototyping: 5 Facts for Designing in Low-Tech](https://www.gamecareerguide.com/features/622/paper_prototyping_5_facts_for_.php)
+* [Paper Tales: A Guide to Narrative Prototyping](http://gdcvault.com/play/1020509/Paper-Tales-A-Guide-to)
+* [Level 5.3: The Non-Digital Designer's Prototyping Kit](https://learn.canvas.net/courses/3/pages/level-5-dot-3-the-non-digital-designers-prototyping-kit)
 
-### Readings
-* [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
-* [Let's get mobile (9:06)](https://www.youtube.com/watch?v=ckCGlAVyWHc)
-* [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1CA4Vw)
-* [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
-* [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
 
-### Tools and Tutorials
-* [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
+## <a name="week7">Week 7</a> (Feb 26/28): AR Toolkits and Processes
+
+* ARIS
+    * [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
+    * [Julie Sykes teaches French with post-apocalyptic augmented reality app - EcoPod](https://medium.com/@fielddaylab/learning-language-with-an-post-apocalyptic-survival-game-eco-pod-63efc90dc5a5)
+    * [Occupied Paris: Creating a Virtual Learning Experience (54m video)](http://www.coerll.utexas.edu/coerll/event/occupied-paris-creating-virtual-learning-experience)
 
 * Vuforia
   * [Getting Started with Vuforia in Unity](https://library.vuforia.com/content/vuforia-library/en/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
@@ -158,6 +189,4 @@ Start thinking about what game you want to pitch to the class. We will work on n
     * [ARCore Overview](https://developers.google.com/ar/discover/)
     * [ARCore Development Overview](https://developers.google.com/ar/develop/)
 
-
-## <a name="week7">Week 7</a> (Feb 26/28): Physical Prototyping/Playtesting
 
