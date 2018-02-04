@@ -136,24 +136,31 @@ At 4pm on Wednesday, Owen Gottlieb will be giving a talk about his game "Jewish 
     * [Cruel 2 B Kind](http://www.cruelgame.com/)
 
 ### Wednesday Readings
+Wednesday's readings are located on myCourses and/or Slack, due to copright limitations.
 
 * [Gottlieb, O. (2018). Time travel, labour history, and the null curriculum: new design knowledge for mobile augmented reality history games. International Journal of Heritage Studies, 24(3), 287–299. (uploaded to myCourses)](https://mycourses.rit.edu/d2l/le/content/676759/viewContent/5010696/View)
-* AR Concepts and Toolkits
+* [McGonigal, J. (2011). Reality Is Broken: Why Games Make Us Better and How They Can Change the World, chapters 8-10 (uploaded to Slack)](https://dbv-sa-2018.slack.com/files/U7Y1VPUSV/F94KFRM9V/reality_is_broken__why_games_make_us_bette_-_jane_mcgonigal.pdf) 
+
+
+## <a name="week5">Week 5</a> (Feb 12/14): Team Formation, Communication, and Documentation; AR Concepts & Toolkits
+
+On Monday we'll finalize our game choice(s), and discuss the tools and processes that your team will need to move forward with the game(s). This will include both production tools (like Trello and Slack), and an overview of AR tools.
+
+On Wednesday we'll talk about design documentation. 
+
+### Monday Readings
+
+* Teams & Tools (580)
+    * [Raph Koster: Typical Game Development Teams](https://www.raphkoster.com/2007/11/02/typical-game-dev-teams/)
+    * [Alistair Doulin: Building a Strong Indie Development Team](https://www.gamasutra.com/blogs/AlistairDoulin/20100107/86323/Building_A_Strong_Indie_Game_Development_Team.php)
+    * [Kanban and Game Development with Trello](http://www.nicoespeon.com/en/2016/01/kanban-game-development-trello/)
+
+* AR Concepts and Toolkits (590)
     * Queensland EdX Videos [Let's get mobile (9:06)](https://www.youtube.com/watch?v=ckCGlAVyWHc)
 and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1CA4Vw)
     * [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
     * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
     * [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
-
-
-## <a name="week5">Week 5</a> (Feb 12/14): Team Formation, Communication, and Documentation; AR Concepts & Toolkits
-
-This week we'll finalize our game choice(s), and then focus on the tools and processes that your team will need to move forward with the game(s). 
-
-### Monday Readings
-* [Raph Koster: Typical Game Development Teams](https://www.raphkoster.com/2007/11/02/typical-game-dev-teams/)
-* [Alistair Doulin: Building a Strong Indie Development Team](https://www.gamasutra.com/blogs/AlistairDoulin/20100107/86323/Building_A_Strong_Indie_Game_Development_Team.php)
-* [Kanban and Game Development with Trello](http://www.nicoespeon.com/en/2016/01/kanban-game-development-trello/)
 
 
 ### Wednesday Readings
@@ -162,7 +169,6 @@ This week we'll finalize our game choice(s), and then focus on the tools and pro
 * [Game Design Document Examples](http://seriousgamesnet.eu/assets/view/238)
 * [Game Design Logs](http://www.lostgarden.com/2011/05/game-design-logs.html)
 * [Storyboarding](https://multimedia.journalism.berkeley.edu/tutorials/starttofinish-storyboarding/)
-
 
 ##  <a name="week6">Week 6</a> (Feb 19/21): Physical Prototyping/Playtesting
 * [Paper Prototyping: 5 Facts for Designing in Low-Tech](https://www.gamecareerguide.com/features/622/paper_prototyping_5_facts_for_.php)
