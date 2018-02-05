@@ -128,12 +128,14 @@ At 4pm on Wednesday, Owen Gottlieb will be giving a talk about his game "Jewish 
 * [GeoGames Team @ University of Bamberg](http://www.geogames-team.org/)
     * [CityPoker](http://www.geogames-team.org/designer/?lang=en)
     * [Guesstimate](http://www.geogames-team.org/?p=163)
+    * Late addition (don't need to read before classs): [GeoGames Organizers' Guide](http://www.geogames-team.org/wp-content/uploads/2014/08/Geogames-organizers-guide-v-1.0a.pdf)
 
 * Location-Based Games
     * [Come Out and Play Festival](http://www.comeoutandplay.org/about/)
     * [Tombstone Hold 'Em](http://www.playfolk.org/blog/2014/3/24/play-folk-1-tombstone-hold-em)
     * [Cruel 2 B Kind](http://www.cruelgame.com/)
     * [Jewish Time Jump](http://www.converjent.org/jewish-time-jump-new-york_page/get-the-game/)
+    * [Zombies, Run!](https://zombiesrungame.com/)
 
 
 ### Wednesday Readings
@@ -189,9 +191,16 @@ and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1C
   * [Getting Started with Vuforia in Unity](https://library.vuforia.com/content/vuforia-library/en/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
   * [Getting Started with Vuforia for Android Development](https://library.vuforia.com/articles/Solution/Getting-Started-with-Vuforia-for-Android-Development.html)
 
+* ARIS + Vuforia
+    * [ARIS AR Triggers](https://fielddaylab.org/courses/aris-ar)
+
 * ARCore
     * [ARCore Overview](https://developers.google.com/ar/discover/)
     * [ARCore Development Overview](https://developers.google.com/ar/develop/)
+
+* Motive.io
+    * [Motive.io Overview](https://www.motive.io/)
+    * [Motive.io Features](https://www.motive.io/features/)
 
 ## <a name="week7">Week 8</a> (Mar 5/7): Reboot Develop Pitches
 
