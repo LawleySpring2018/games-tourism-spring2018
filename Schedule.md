@@ -128,12 +128,13 @@ At 4pm on Wednesday, Owen Gottlieb will be giving a talk about his game "Jewish 
 * [GeoGames Team @ University of Bamberg](http://www.geogames-team.org/)
     * [CityPoker](http://www.geogames-team.org/designer/?lang=en)
     * [Guesstimate](http://www.geogames-team.org/?p=163)
-    * [Jewish Time Jump](http://www.converjent.org/jewish-time-jump-new-york_page/get-the-game/)
 
 * Location-Based Games
     * [Come Out and Play Festival](http://www.comeoutandplay.org/about/)
     * [Tombstone Hold 'Em](http://www.playfolk.org/blog/2014/3/24/play-folk-1-tombstone-hold-em)
     * [Cruel 2 B Kind](http://www.cruelgame.com/)
+    * [Jewish Time Jump](http://www.converjent.org/jewish-time-jump-new-york_page/get-the-game/)
+
 
 ### Wednesday Readings
 Wednesday's readings are located on myCourses and/or Slack, due to copright limitations.
