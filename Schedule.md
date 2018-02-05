@@ -6,10 +6,10 @@
 - [Week 2 (Jan 22/24): Dubrovnik History & Heritage](#week2)
 - [Week 3 (Jan 29/31): Examples of Games in Tourism (590); Dubrovnik-Specific Challenges (580)](#week3)
 - [Week 4 (Feb 5/7): Geogames and Location-Based Games (590); Initial Game Pitches (580)](#week4)
-- [Week 5 (Feb 12/14): Team Formation, Communication, and Documentation](#week5)
-- [Week 6 (Feb 19/21): AR Toolkits](#week6)
-- [Week 7 (Feb 26/28): Physical Prototyping/Playtesting](#week7)
-- [Week 8 (Mar 5/7): ](#week8)
+- [Week 5 (Feb 12/14): Team Formation, Communication, and Documentation (580); AR Tools Overview (590)](#week5)
+- [Week 6 (Feb 19/21): Physical Prototyping and Playtesting](#week6)
+- [Week 7 (Feb 26/28): AR Toolkits & Tutorials](#week7)
+- [Week 8 (Mar 5/7): Reboot Develop Pitches](#week8)
 - Spring Break (Mar 10-18)
 - [Week 9 (Mar 19/21): ](#week9)
 - [Week 10 (Mar 26/28): ](#week10)
@@ -171,12 +171,13 @@ and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1C
 * [Storyboarding](https://multimedia.journalism.berkeley.edu/tutorials/starttofinish-storyboarding/)
 
 ##  <a name="week6">Week 6</a> (Feb 19/21): Physical Prototyping/Playtesting
+
 * [Paper Prototyping: 5 Facts for Designing in Low-Tech](https://www.gamecareerguide.com/features/622/paper_prototyping_5_facts_for_.php)
 * [Paper Tales: A Guide to Narrative Prototyping](http://gdcvault.com/play/1020509/Paper-Tales-A-Guide-to)
 * [Level 5.3: The Non-Digital Designer's Prototyping Kit](https://learn.canvas.net/courses/3/pages/level-5-dot-3-the-non-digital-designers-prototyping-kit)
 
 
-## <a name="week7">Week 7</a> (Feb 26/28): AR Toolkits and Processes
+## <a name="week7">Week 7</a> (Feb 26/28): AR Toolkits and Tutorials
 
 * ARIS
     * [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
@@ -191,4 +192,14 @@ and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1C
     * [ARCore Overview](https://developers.google.com/ar/discover/)
     * [ARCore Development Overview](https://developers.google.com/ar/develop/)
 
+## <a name="week7">Week 8</a> (Mar 5/7): Reboot Develop Pitches
 
+Before we leave for the break, you'll do a more in-depth pitch of your game, so I can decide if it should be submitted for the ["pitching sessions" at Reboot Develop](http://www.rebootdevelop.hr/reboot-pitching-sessions/). They require a trailer video and a five-minute pitch, followed by Q&A with the potential investors. You don't need the trailer video this week, but you should at least have a first draft of it storyboarded in PowerPoint. 
+
+If I think the game will be ready to pitch at that level, I'll submit the application with a MAGIC Spell Studios affiliation. 
+
+### Readings
+
+* [Making Entertaining & Engaging Video Game Trailers](http://www.kertgartner.com/making-entertaining-and-engaging-video-game-trailers/)
+* [The 9 Dos and Don'ts of Video Game Trailers](https://gameanalytics.com/blog/dos-and-donts-of-game-trailers.html)
+* [The Simple guide to Making Awesome Mobile Game Trailers](https://v-play.net/mobile-marketing/mobile-game-trailer-guide)
