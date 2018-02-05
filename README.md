@@ -55,7 +55,7 @@ You are expected to attend class regularly, since there will be many guest lectu
 You will write a 5-7 page paper about an existing tourism-focused and/or location-based game (or games). Due at the end of week 5. 
 
 ### Future Game Opportunities Paper (20% of final grade)
-You will write a 5-7 page paper identifying opportunities for games (beyond what you worked on in Production Studio) that would address challenges faced by either tourists or tourism providers in Dubrovnik (or another tourist destination). Due week 14. 
+You will write a 5-10 page paper identifying opportunities for games (beyond what you worked on in Production Studio) that would address challenges faced by either tourists or tourism providers in Dubrovnik (or another tourist destination). Due week 14. 
 
 ## Group Game Project (IGME 580 Grade)
 Projects will be assessed twice; once at the end of week 7, and once at the end of the semester. Your group will also turn in a series of progress reports throughout the semester. 
