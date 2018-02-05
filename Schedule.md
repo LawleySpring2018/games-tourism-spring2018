@@ -125,7 +125,7 @@ At 4pm on Wednesday, Owen Gottlieb will be giving a talk about his game "Jewish 
 ### Monday Readings
 * (Late addition, sorry!) [Brainstorming Doesn't Work: Try This Technique Instead](https://www.fastcompany.com/3033567/brainstorming-doesnt-work-try-this-technique-instead)
 
-* [GeoGames Team @ University of Bamberg]
+* [GeoGames Team @ University of Bamberg](http://www.geogames-team.org/)
     * [CityPoker](http://www.geogames-team.org/designer/?lang=en)
     * [Guesstimate](http://www.geogames-team.org/?p=163)
     * [Jewish Time Jump](http://www.converjent.org/jewish-time-jump-new-york_page/get-the-game/)
