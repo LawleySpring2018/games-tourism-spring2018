@@ -52,7 +52,7 @@ Each week there will be lectures, readings, and in-class activities. You will be
 You are expected to attend class regularly, since there will be many guest lectures, site visits, and group activities that cannot be made up outside of class. 
 
 ### [Game Analysis Paper](gameanalysis.md) (20% of final grade)
-You will write a 5-7 page paper about an existing tourism-focused and/or location-based game (or games). Due week 6. 
+You will write a 5-7 page paper about an existing tourism-focused and/or location-based game (or games). Due at the end of week 5. 
 
 ### Future Game Opportunities Paper (20% of final grade)
 You will write a 5-7 page paper identifying opportunities for games (beyond what you worked on in Production Studio) that would address challenges faced by either tourists or tourism providers in Dubrovnik (or another tourist destination). Due week 14. 
