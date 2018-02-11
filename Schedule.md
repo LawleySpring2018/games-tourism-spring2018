@@ -161,6 +161,7 @@ On Wednesday we'll talk about design documentation.
 * AR Concepts and Toolkits (590)
     * Queensland EdX Videos [Let's get mobile (9:06)](https://www.youtube.com/watch?v=ckCGlAVyWHc)
 and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1CA4Vw)
+    * [ARIS Overview](ARIS_Overview.pdf)
     * [Best Tools for Building Augmented Reality Mobile Apps](https://rubygarage.org/blog/best-tools-for-building-augmented-reality-mobile-apps)
     * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
     * [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
