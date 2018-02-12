@@ -147,6 +147,8 @@ Wednesday's readings are located on myCourses and/or Slack, due to copright limi
 
 ## <a name="week5">Week 5</a> (Feb 12/14): Team Formation, Communication, and Documentation; AR Concepts & Toolkits
 
+This week we shift gears, with a greater focus on implementation. (That doesn't mean we'll stop talking about theory and concepts; they'll inform our work throughout the semester--and, ideally, throughout your career!) 
+
 On Monday we'll finalize our game choice(s), and discuss the tools and processes that your team will need to move forward with the game(s). This will include both production tools (like Trello and Slack), and an overview of AR tools.
 
 On Wednesday we'll talk about design documentation. 
@@ -166,6 +168,8 @@ and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1C
     * [Getting Started with Vuforia](https://library.vuforia.com/getting-started.html)
     * [Tango Developer Overview](https://developers.google.com/tango/developer-overview)
 
+### [Monday In-Class & Homework Activity: Communication and Content Infrastructure](w5a-activity.md)
+
 
 ### Wednesday Readings
 * [Stone Librande @ GDC 2010: One-Page Designs](https://www.gdcvault.com/play/1012356/One-Page)
@@ -175,10 +179,16 @@ and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1C
 * [Storyboarding](https://multimedia.journalism.berkeley.edu/tutorials/starttofinish-storyboarding/)
 
 ##  <a name="week6">Week 6</a> (Feb 19/21): Physical Prototyping/Playtesting
+Once you have an initial plan, you need to figure out if it's going to work. (Spoiler alert: It almost never does, at least not the way you anticipated.) You want to do this *before* you start writing code--in fact, you want to do this before you've even fully committed to a platform, since you may find in your testing that you need different features than you originally planned for. 
 
+This week you'll build and test paper/physical prototypes of your initial idea(s), and see what needs tweaking. Start with testing that can be done in the classroom, walking through your storyboard and initial interface ideas. By the end of the week, you should have also done some initial testing in the physical space(s) where your game will be played.  
+
+### Readings
+* [Designing F2P on Paper: The Metagame of 'Train Conductor World' (Simon Joslin @ VRDC '16)](http://gdcvault.com/play/1024127/Designing-F2P-on-Paper-The)
 * [Paper Prototyping: 5 Facts for Designing in Low-Tech](https://www.gamecareerguide.com/features/622/paper_prototyping_5_facts_for_.php)
 * [Paper Tales: A Guide to Narrative Prototyping](http://gdcvault.com/play/1020509/Paper-Tales-A-Guide-to)
 * [Level 5.3: The Non-Digital Designer's Prototyping Kit](https://learn.canvas.net/courses/3/pages/level-5-dot-3-the-non-digital-designers-prototyping-kit)
+
 
 
 ## <a name="week7">Week 7</a> (Feb 26/28): AR Toolkits and Tutorials
