@@ -29,9 +29,9 @@ Avoid using hyperbole and general adjectives such as "brilliant" or "great." Ins
 In your opinion, was this game successful? If so, was it successful from both the developers' and the players' perspectives? Justify your assessment by using the materials you've read for class thus far (and any additional materials that you might find relevant or useful). Has the game been reviewed by others? If so, do you agree or disagreement with their assessments?  
 
 ## Citing Your Sources
-Ideas and concepts that are not your original ideas ***must be cited***. Sources of factual material about the game ("it is the most popular card game ever", "it was the first game of type X ever released", "it received poor reviews", etc) must always be cited. Quotations must always be cited. Paraphrases must always be cited. 
+Ideas and concepts that are not your original ideas ***must be cited.*** Sources of factual material about the game ("it is the most popular card game ever", "it was the first game of type X ever released", "it received poor reviews", etc) must always be cited. Quotations must always be cited. Paraphrases must always be cited. 
 
 ## Mechanics
-* The paper is due by noon on Saturday, 17 February. It must be submitted to the Dropbox in myCourses in Word (.doc or .docx) or PDF format. 
+* The paper is due by 9am on Monday, 19 February. It must be submitted to the Dropbox in myCourses in Word (.doc or .docx) or PDF format. 
 * It must be at least 1500 words in length, but no longer than 3000 words. (Word count does not include your name, the title, references, abstracts, etc.)
 * It should be spell-checked and proofread. Proper grammar and word usage is required.
