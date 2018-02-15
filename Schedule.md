@@ -178,17 +178,26 @@ and [Augmented & virtual reality (9:59)](https://www.youtube.com/watch?v=wG7kB1C
 * [Game Design Logs](http://www.lostgarden.com/2011/05/game-design-logs.html)
 * [Storyboarding](https://multimedia.journalism.berkeley.edu/tutorials/starttofinish-storyboarding/)
 
-##  <a name="week6">Week 6</a> (Feb 19/21): Physical Prototyping/Playtesting
-Once you have an initial plan, you need to figure out if it's going to work. (Spoiler alert: It almost never does, at least not the way you anticipated.) You want to do this *before* you start writing code--in fact, you want to do this before you've even fully committed to a platform, since you may find in your testing that you need different features than you originally planned for. 
+##  <a name="week6">Week 6</a> (Feb 19/21): Documenting, Prototyping, Playtesting
+Based on your initial discussions and testing from last week, you'll need to continue documenting your game's mechanics and dynamics. That means walkthroughs (typically in storyboard format) and UI/interaction diagrams. 
 
-This week you'll build and test paper/physical prototypes of your initial idea(s), and see what needs tweaking. Start with testing that can be done in the classroom, walking through your storyboard and initial interface ideas. By the end of the week, you should have also done some initial testing in the physical space(s) where your game will be played.  
+For interaction design, think through all the action and decision points, and their possible outcomes. Here's an example of an early interaction design flowchart from Just Press Play: [JPPIA.png](JPPIA.png)  (Google Draw is a pretty decent tool for creating these kinds of diagrams.)
+
+Once you have that, you can build a physical prototype for your game--one that incorporates both content and UI elements--and begin testing it more thoroughly, figuring out what exactly you're going to need to have in terms of screens and functionality. 
+
+You need to do this *before* you start writing any code--in fact, you want to do this before you've even fully committed to a platform, since you may find in your testing that you need different features than you originally planned for. 
 
 ### Readings
+This is material typically covered 220, and is provided here as a refresher/reminder. 
+
+**Documenting**
+* [How to Create a User Experience Flow Chart](https://www.startuprocket.com/articles/how-to-create-a-user-experience-flow-chart-ux-flow-chart)
+
+**Prototyping**
 * [Designing F2P on Paper: The Metagame of 'Train Conductor World' (Simon Joslin @ VRDC '16)](http://gdcvault.com/play/1024127/Designing-F2P-on-Paper-The)
 * [Paper Prototyping: 5 Facts for Designing in Low-Tech](https://www.gamecareerguide.com/features/622/paper_prototyping_5_facts_for_.php)
 * [Paper Tales: A Guide to Narrative Prototyping](http://gdcvault.com/play/1020509/Paper-Tales-A-Guide-to)
 * [Level 5.3: The Non-Digital Designer's Prototyping Kit](https://learn.canvas.net/courses/3/pages/level-5-dot-3-the-non-digital-designers-prototyping-kit)
-
 
 
 ## <a name="week7">Week 7</a> (Feb 26/28): AR Toolkits and Tutorials
@@ -213,11 +222,11 @@ This week you'll build and test paper/physical prototypes of your initial idea(s
     * [Motive.io Overview](https://www.motive.io/)
     * [Motive.io Features](https://www.motive.io/features/)
 
-## <a name="week7">Week 8</a> (Mar 5/7): Reboot Develop Pitches
+## <a name="week8">Week 8</a> (Mar 5/7): Reboot Develop Pitches
 
-Before we leave for the break, you'll do a more in-depth pitch of your game, so I can decide if it should be submitted for the ["pitching sessions" at Reboot Develop](http://www.rebootdevelop.hr/reboot-pitching-sessions/). They require a trailer video and a five-minute pitch, followed by Q&A with the potential investors. You don't need the trailer video this week, but you should at least have a first draft of it storyboarded in PowerPoint. 
+Before we leave for the break, you'll do a full pitch of your game, so I can decide if it should be submitted for the ["pitching sessions" at Reboot Develop](http://www.rebootdevelop.hr/reboot-pitching-sessions/) with a Magic Spell Studios affiliation. They require a trailer video and a five-minute pitch, followed by Q&A with the potential investors. You don't need the trailer video this week, but you should at least have a first draft of it storyboarded in PowerPoint. 
 
-If I think the game will be ready to pitch at that level, I'll submit the application with a MAGIC Spell Studios affiliation. 
+(If you want to pitch an additional game idea this week, you can do that as well.)
 
 ### Readings
 
