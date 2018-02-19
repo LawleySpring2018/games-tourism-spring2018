@@ -193,11 +193,17 @@ This is material typically covered 220, and is provided here as a refresher/remi
 **Documenting**
 * [How to Create a User Experience Flow Chart](https://www.startuprocket.com/articles/how-to-create-a-user-experience-flow-chart-ux-flow-chart)
 
-**Prototyping**
+**Physical Prototyping**
 * [Designing F2P on Paper: The Metagame of 'Train Conductor World' (Simon Joslin @ VRDC '16)](http://gdcvault.com/play/1024127/Designing-F2P-on-Paper-The)
 * [Paper Prototyping: 5 Facts for Designing in Low-Tech](https://www.gamecareerguide.com/features/622/paper_prototyping_5_facts_for_.php)
 * [Paper Tales: A Guide to Narrative Prototyping](http://gdcvault.com/play/1020509/Paper-Tales-A-Guide-to)
 * [Level 5.3: The Non-Digital Designer's Prototyping Kit](https://learn.canvas.net/courses/3/pages/level-5-dot-3-the-non-digital-designers-prototyping-kit)
+
+**Digital Prototyping**
+* [Axure](https://www.axure.com/) - Professional-grade tool for wireframing and prototyping. Supports shared projects for collaborative work. F
+    * [Axure Educational Download](https://www.axure.com/edu) - Free licenses available for students and teachers
+    * [Creating and Managing Axure Team Projects](https://www.axure.com/support/reference/team-projects)
+
 
 
 ## <a name="week7">Week 7</a> (Feb 26/28): AR Toolkits and Tutorials
