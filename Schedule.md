@@ -206,7 +206,7 @@ This is material typically covered 220, and is provided here as a refresher/remi
 
 
 
-## <a name="week7">Week 7</a> (Feb 26/28): AR Toolkits and Tutorials
+## <a name="week7">Weeks 7-8</a> (Feb 26/28): AR Toolkits and Tutorials
 
 * ARIS
     * [ARIS Basics Course](https://fielddaylab.wisc.edu/courses/aris)
@@ -230,11 +230,13 @@ This is material typically covered 220, and is provided here as a refresher/remi
 
 ## <a name="week8">Week 8</a> (Mar 5/7): Reboot Develop Pitches
 
-Before we leave for the break, you'll do a full pitch of your game, so I can decide if it should be submitted for the ["pitching sessions" at Reboot Develop](http://www.rebootdevelop.hr/reboot-pitching-sessions/) with a Magic Spell Studios affiliation. They require a trailer video and a five-minute pitch, followed by Q&A with the potential investors. You don't need the trailer video this week, but you should at least have a first draft of it storyboarded in PowerPoint. 
+Before we leave for the break, you'll do a full pitch of your game, so I can decide if it should be submitted for the ["pitching sessions" at Reboot Develop](http://www.rebootdevelop.hr/reboot-pitching-sessions/) with a Magic Spell Studios affiliation. The proposal requires a brief description of the game and a 1-5 minute video. If your proposal is accepted, at the conference you'll do a 5-minute pitch (which can include video components) followed by Q&A with the potential investors. 
 
-(If you want to pitch an additional game idea this week, you can do that as well.)
+### Pitch Readings
+* [How To Pitch Your Project To Publishers (Gamasutra)](https://www.gamasutra.com/view/feature/134571/how_to_pitch_your_project_to_.php)
+* [Brian Upton @ GDC 2017: 30 Things I Hate About Your Game Pitch](http://gdcvault.com/play/1023998/Thirty-Things-I-Hate-About)
 
-### Readings
+### Trailer Readings
 
 * [Making Entertaining & Engaging Video Game Trailers](http://www.kertgartner.com/making-entertaining-and-engaging-video-game-trailers/)
 * [The 9 Dos and Don'ts of Video Game Trailers](https://gameanalytics.com/blog/dos-and-donts-of-game-trailers.html)
