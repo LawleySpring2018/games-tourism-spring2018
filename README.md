@@ -66,7 +66,7 @@ I will assess your group's progress at the end of week 7. This assessment will i
 If you have created a prototype and/or performed a playtest, I will review that separately, and will use it to determine whether you should apply to pitch your game at the Reboot Develop conference. Applications for the ptiching sessions are due by March 18 at 6pm (which is the day before spring break ends). 
 
 ### Project Updates (20% of final grade)
-Your group will submit a project progress report at the end of weeks 6, 8, 10, 12, and 14. Each will be worth 4% of your final grade. They should be collaboratively written in Google Docs, so that I'm able to see who contributed and how. 
+Your group will submit a project progress report at the end of weeks 8, 10, 12, and 14. Each will be worth 5% of your final grade, and the grade will be the same for all members of the team. It should be submitted by the student producer, but they can (and should) assign some components to other team members. 
 
 ### Final Assessment (60% of final grade)
 Your final assessment will include all prototypes and playtests, design documentation, team communication and effectiveness, and the final version of the game itself. I will include a peer evaluation component in this assessment, as well. 
